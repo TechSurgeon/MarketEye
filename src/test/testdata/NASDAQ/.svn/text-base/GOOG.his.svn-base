@@ -1,0 +1,4874 @@
+<map>
+  <entry>
+    <date>2006-08-02 02:47:37.781 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>375.6</open>
+      <close>367.23</close>
+      <gap>0.20999146</gap>
+      <high>377.17</high>
+      <low>365.2</low>
+      <volume>7097800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-18 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>403.49</open>
+      <close>400.21</close>
+      <gap>-5.869995</gap>
+      <high>404.5</high>
+      <low>399.85</low>
+      <volume>7025700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-21 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>308.41</open>
+      <close>311.9</close>
+      <gap>-2.9599915</gap>
+      <high>313.76</high>
+      <low>305.96</low>
+      <volume>10119700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-03 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>384.3</open>
+      <close>378.18</close>
+      <gap>16.199982</gap>
+      <high>387.24</high>
+      <low>375.76</low>
+      <volume>11962000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-01 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>295.04</open>
+      <close>291.25</close>
+      <gap>-0.6699829</gap>
+      <high>296.24</high>
+      <low>289.22</low>
+      <volume>9227600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-09 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>184.21</open>
+      <close>181.35</close>
+      <gap>4.230011</gap>
+      <high>184.65</high>
+      <low>180.16</low>
+      <volume>11360400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-28 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>418.63</open>
+      <close>417.94</close>
+      <gap>19.730011</gap>
+      <high>425.73</high>
+      <low>416.3</low>
+      <volume>7421300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-01 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>373.54</open>
+      <close>382.62</close>
+      <gap>-5.899994</gap>
+      <high>382.99</high>
+      <low>371.6</low>
+      <volume>6278000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-16 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>389.1</open>
+      <close>390.7</close>
+      <gap>0.95999146</gap>
+      <high>390.93</high>
+      <low>388.0</low>
+      <volume>5304600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-19 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>189.33</open>
+      <close>191.4</close>
+      <gap>-8.770004</gap>
+      <high>192.0</high>
+      <low>188.03</low>
+      <volume>8430000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-07 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>187.78</open>
+      <close>188.81</close>
+      <gap>2.5800018</gap>
+      <high>189.6</high>
+      <low>187.03</low>
+      <volume>8667400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-29 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>379.94</open>
+      <close>394.98</close>
+      <gap>-8.5</gap>
+      <high>399.0</high>
+      <low>379.51</low>
+      <volume>19027500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-17 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>403.45</open>
+      <close>406.82</close>
+      <gap>-0.789978</gap>
+      <high>412.5</high>
+      <low>400.84</low>
+      <volume>8259500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-01 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>189.29</open>
+      <close>186.06</close>
+      <gap>4.1100006</gap>
+      <high>189.75</high>
+      <low>182.0</low>
+      <volume>9311200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-30 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>287.39</open>
+      <close>287.27</close>
+      <gap>1.3900146</gap>
+      <high>289.51</high>
+      <low>285.88</low>
+      <volume>4792000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-13 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>309.0</open>
+      <close>311.68</close>
+      <gap>6.0</gap>
+      <high>315.53</high>
+      <low>306.17</low>
+      <volume>10299900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-04 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>395.03</open>
+      <close>394.75</close>
+      <gap>0.730011</gap>
+      <high>398.87</high>
+      <low>392.21</low>
+      <volume>4652000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-01 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>285.91</open>
+      <close>286.25</close>
+      <gap>-2.5400085</gap>
+      <high>287.5</high>
+      <low>285.0</low>
+      <volume>2742100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-24 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>377.3</open>
+      <close>377.4</close>
+      <gap>-13.080017</gap>
+      <high>380.07</high>
+      <low>373.49</low>
+      <volume>6484300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-01 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>409.2</open>
+      <close>414.09</close>
+      <gap>-8.5</gap>
+      <high>415.44</high>
+      <low>408.29</low>
+      <volume>9744900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-07 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>406.16</open>
+      <close>404.22</close>
+      <gap>-4.48999</gap>
+      <high>406.7</high>
+      <low>399.01</low>
+      <volume>11665900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-27 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>405.71</open>
+      <close>402.32</close>
+      <gap>-0.3999939</gap>
+      <high>408.0</high>
+      <low>401.01</low>
+      <volume>4107100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-23 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.3</open>
+      <close>193.95</close>
+      <gap>4.4100037</gap>
+      <high>194.48</high>
+      <low>188.66</low>
+      <volume>15586000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-24 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>290.9</open>
+      <close>297.25</close>
+      <gap>-13.200012</gap>
+      <high>298.0</high>
+      <low>289.58</low>
+      <volume>17771200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-27 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>431.86</open>
+      <close>424.64</close>
+      <gap>5.169983</gap>
+      <high>431.86</high>
+      <low>422.76</low>
+      <volume>6702800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-23 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>417.04</open>
+      <close>422.86</close>
+      <gap>-11.579987</gap>
+      <high>424.72</high>
+      <low>415.78</low>
+      <volume>10085000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-16 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>375.99</open>
+      <close>371.3</close>
+      <gap>1.4899902</gap>
+      <high>376.86</high>
+      <low>369.89</low>
+      <volume>6491100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-05 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>397.6</open>
+      <close>394.3</close>
+      <gap>2.8200073</gap>
+      <high>400.68</high>
+      <low>391.78</low>
+      <volume>6065000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-18 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>178.81</open>
+      <close>180.04</close>
+      <gap>-2.0700073</gap>
+      <high>180.4</high>
+      <low>178.31</low>
+      <volume>7090000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-24 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>436.03</open>
+      <close>443.03</close>
+      <gap>3.0299988</gap>
+      <high>444.95</high>
+      <low>434.48</low>
+      <volume>15464600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-12 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>293.39</open>
+      <close>291.78</close>
+      <gap>-5.4699707</gap>
+      <high>294.4</high>
+      <low>290.93</low>
+      <volume>5864900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-23 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>374.21</open>
+      <close>375.58</close>
+      <gap>-7.0400085</gap>
+      <high>383.88</high>
+      <low>373.56</low>
+      <volume>8983000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-19 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>304.0</open>
+      <close>308.7</close>
+      <gap>0.7999878</gap>
+      <high>309.87</high>
+      <low>303.96</low>
+      <volume>7010700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-16 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>194.7</open>
+      <close>198.41</close>
+      <gap>-3.199997</gap>
+      <high>199.33</high>
+      <low>194.3</low>
+      <volume>16532300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-14 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>305.34</open>
+      <close>300.89</close>
+      <gap>4.149994</gap>
+      <high>306.75</high>
+      <low>300.07</low>
+      <volume>10667700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-21 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>314.05</open>
+      <close>313.94</close>
+      <gap>11.649994</gap>
+      <high>317.8</high>
+      <low>311.21</low>
+      <volume>19789400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-07 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>395.1</open>
+      <close>395.03</close>
+      <gap>5.200012</gap>
+      <high>397.47</high>
+      <low>392.15</low>
+      <volume>9591500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-20 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>411.01</open>
+      <close>415.0</close>
+      <gap>-26.089996</gap>
+      <high>416.0</high>
+      <low>408.2</low>
+      <volume>12271500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-15 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>190.1</open>
+      <close>185.0</close>
+      <gap>3.130005</gap>
+      <high>190.34</high>
+      <low>184.66</low>
+      <volume>11577400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-13 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>229.18</open>
+      <close>229.24</close>
+      <gap>-1.8700104</gap>
+      <high>231.09</high>
+      <low>227.32</low>
+      <volume>7415500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-28 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>393.2</open>
+      <close>362.62</close>
+      <gap>28.400024</gap>
+      <high>397.54</high>
+      <low>338.51</low>
+      <volume>39437600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-25 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>189.15</open>
+      <close>185.87</close>
+      <gap>1.1599884</gap>
+      <high>189.92</high>
+      <low>185.51</low>
+      <volume>9973500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-26 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>319.5</open>
+      <close>314.28</close>
+      <gap>5.5599976</gap>
+      <high>320.95</high>
+      <low>312.56</low>
+      <volume>9894400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-02 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>291.6</open>
+      <close>299.19</close>
+      <gap>-5.6999817</gap>
+      <high>299.52</high>
+      <low>291.12</low>
+      <volume>7290200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-13 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>408.63</open>
+      <close>402.16</close>
+      <gap>1.8099976</gap>
+      <high>409.76</high>
+      <low>400.5</low>
+      <volume>6552900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-14 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>182.85</open>
+      <close>192.99</close>
+      <gap>-12.37999</gap>
+      <high>193.08</high>
+      <low>181.0</low>
+      <volume>38562200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-22 02:47:37.984 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>281.24</open>
+      <close>274.01</close>
+      <gap>1.6600037</gap>
+      <high>281.47</high>
+      <low>273.35</low>
+      <volume>6813000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-09 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>355.39</open>
+      <close>343.0</close>
+      <gap>17.890015</gap>
+      <high>358.53</high>
+      <low>341.5</low>
+      <volume>13910400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-11 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>195.62</open>
+      <close>193.54</close>
+      <gap>0.23999023</gap>
+      <high>197.71</high>
+      <low>193.18</low>
+      <volume>6958700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-09 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>284.72</open>
+      <close>286.31</close>
+      <gap>2.2200012</gap>
+      <high>288.5</high>
+      <low>280.56</low>
+      <volume>16441100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-20 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>388.03</open>
+      <close>387.17</close>
+      <gap>-14.100006</gap>
+      <high>391.87</high>
+      <low>386.51</low>
+      <volume>4039900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-06 02:47:37.812 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>423.38</open>
+      <close>423.19</close>
+      <gap>2.9299927</gap>
+      <high>425.38</high>
+      <low>421.98</low>
+      <volume>3687100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-09 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>386.67</open>
+      <close>379.15</close>
+      <gap>-4.4299927</gap>
+      <high>388.29</high>
+      <low>378.03</low>
+      <volume>10466900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-22 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>401.58</open>
+      <close>399.95</close>
+      <gap>-3.2799988</gap>
+      <high>406.0</high>
+      <low>388.0</low>
+      <volume>5911900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-20 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>404.28</open>
+      <close>387.12</close>
+      <gap>14.170013</gap>
+      <high>404.44</high>
+      <low>385.66</low>
+      <volume>12538700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-17 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>369.86</open>
+      <close>368.75</close>
+      <gap>3.269989</gap>
+      <high>372.14</high>
+      <low>363.62</low>
+      <volume>14320200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-22 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>181.18</open>
+      <close>178.6</close>
+      <gap>2.199997</gap>
+      <high>181.94</high>
+      <low>177.85</low>
+      <volume>5631700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-19 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>395.01</open>
+      <close>399.0</close>
+      <gap>7.8900146</gap>
+      <high>401.14</high>
+      <low>394.66</low>
+      <volume>8518500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-07 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>314.79</open>
+      <close>312.99</close>
+      <gap>4.1400146</gap>
+      <high>316.67</high>
+      <low>310.54</low>
+      <volume>6770300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-27 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>260.46</open>
+      <close>266.0</close>
+      <gap>-16.809998</gap>
+      <high>266.05</high>
+      <low>259.25</low>
+      <volume>12184100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-21 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>345.8</open>
+      <close>339.9</close>
+      <gap>-2.850006</gap>
+      <high>346.43</high>
+      <low>333.0</low>
+      <volume>22892400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-18 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>304.96</open>
+      <close>303.28</close>
+      <gap>-3.7400208</gap>
+      <high>307.96</high>
+      <low>302.74</low>
+      <volume>7077800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-15 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>419.11</open>
+      <close>422.55</close>
+      <gap>-11.040009</gap>
+      <high>423.14</high>
+      <low>416.5</low>
+      <volume>6045800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-08 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>394.25</open>
+      <close>389.9</close>
+      <gap>15.100006</gap>
+      <high>395.59</high>
+      <low>388.58</low>
+      <volume>7897500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-10 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>343.5</open>
+      <close>337.5</close>
+      <gap>6.4400024</gap>
+      <high>344.5</high>
+      <low>331.55</low>
+      <volume>19325600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-24 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>368.62</open>
+      <close>365.8</close>
+      <gap>-1.0700073</gap>
+      <high>370.09</high>
+      <low>362.51</low>
+      <volume>15180600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-24 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>256.96</open>
+      <close>256.0</close>
+      <gap>-3.850006</gap>
+      <high>265.44</high>
+      <low>253.5</low>
+      <volume>29043100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-23 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>342.35</open>
+      <close>341.89</close>
+      <gap>-23.449982</gap>
+      <high>345.75</high>
+      <low>340.2</low>
+      <volume>7434700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-15 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>299.52</open>
+      <close>302.62</close>
+      <gap>-0.6800232</gap>
+      <high>306.75</high>
+      <low>297.91</low>
+      <volume>15466200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-06 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>380.91</open>
+      <close>368.1</close>
+      <gap>16.459991</gap>
+      <high>383.4</high>
+      <low>367.14</low>
+      <volume>8939700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-29 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>424.46</open>
+      <close>403.54</close>
+      <gap>19.549988</gap>
+      <high>426.4</high>
+      <low>402.14</low>
+      <volume>21495800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-27 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>314.95</open>
+      <close>313.94</close>
+      <gap>8.950012</gap>
+      <high>318.41</high>
+      <low>313.38</low>
+      <volume>6873100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-16 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>229.68</open>
+      <close>231.05</close>
+      <gap>-3.4500122</gap>
+      <high>231.62</high>
+      <low>228.57</low>
+      <volume>5681400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-27 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>381.27</open>
+      <close>390.38</close>
+      <gap>18.649994</gap>
+      <high>391.7</high>
+      <low>380.28</low>
+      <volume>10212200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-22 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>289.67</open>
+      <close>289.3</close>
+      <gap>-0.039978027</gap>
+      <high>292.32</high>
+      <low>288.67</low>
+      <volume>10474000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-03 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>393.62</open>
+      <close>381.55</close>
+      <gap>8.519989</gap>
+      <high>393.9</high>
+      <low>372.57</low>
+      <volume>18281800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-19 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>451.17</open>
+      <close>436.45</close>
+      <gap>51.710022</gap>
+      <high>453.49</high>
+      <low>433.0</low>
+      <volume>14537300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-29 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>282.24</open>
+      <close>288.45</close>
+      <gap>-5.029999</gap>
+      <high>289.12</high>
+      <low>282.24</low>
+      <volume>5903000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-08 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>196.96</open>
+      <close>198.64</close>
+      <gap>5.380005</gap>
+      <high>200.02</high>
+      <low>194.53</low>
+      <volume>11480000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-29 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>221.91</open>
+      <close>220.0</close>
+      <gap>-0.37998962</gap>
+      <high>222.25</high>
+      <low>217.82</low>
+      <volume>9170200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-12 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>414.63</open>
+      <close>412.61</close>
+      <gap>-2.8599854</gap>
+      <high>415.21</high>
+      <low>409.95</low>
+      <volume>6950100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-25 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>345.78</open>
+      <close>346.91</close>
+      <gap>-9.660004</gap>
+      <high>347.4</high>
+      <low>342.86</low>
+      <volume>6878300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-08 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>296.25</open>
+      <close>296.23</close>
+      <gap>2.899994</gap>
+      <high>297.5</high>
+      <low>294.05</low>
+      <volume>7457600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-20 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>427.86</open>
+      <close>429.74</close>
+      <gap>1.5299988</gap>
+      <high>432.2</high>
+      <low>424.67</low>
+      <volume>10084700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-11 02:47:37.750 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>374.4</open>
+      <close>368.5</close>
+      <gap>0.0</gap>
+      <high>375.28</high>
+      <low>368.0</low>
+      <volume>3766500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-18 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>198.51</open>
+      <close>197.95</close>
+      <gap>7.1399994</gap>
+      <high>198.84</high>
+      <low>196.66</low>
+      <volume>8485900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-27 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>387.37</open>
+      <close>382.4</close>
+      <gap>-0.75</gap>
+      <high>387.49</high>
+      <low>377.95</low>
+      <volume>5641100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-04 02:47:37.781 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>379.56</open>
+      <close>373.85</close>
+      <gap>1.6099854</gap>
+      <high>380.68</high>
+      <low>371.75</low>
+      <volume>5095200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-30 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>389.19</open>
+      <close>388.44</close>
+      <gap>-0.80999756</gap>
+      <high>393.5</high>
+      <low>383.61</low>
+      <volume>14711700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-20 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>198.58</open>
+      <close>198.1</close>
+      <gap>-5.6399994</gap>
+      <high>200.5</high>
+      <low>195.91</low>
+      <volume>15451500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-17 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>370.61</open>
+      <close>374.5</close>
+      <gap>-0.38000488</gap>
+      <high>379.84</high>
+      <low>370.22</low>
+      <volume>10643800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-15 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>275.0</open>
+      <close>274.8</close>
+      <gap>-2.4400024</gap>
+      <high>277.3</high>
+      <low>267.43</low>
+      <volume>20883100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-31 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>288.23</open>
+      <close>286.0</close>
+      <gap>1.980011</gap>
+      <high>288.5</high>
+      <low>284.36</low>
+      <volume>5034000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-03 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>197.4</open>
+      <close>202.71</close>
+      <gap>2.899994</gap>
+      <high>203.64</high>
+      <low>195.46</low>
+      <volume>15844200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-10 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>225.47</open>
+      <close>227.8</close>
+      <gap>-5.819992</gap>
+      <high>227.8</high>
+      <low>224.72</low>
+      <volume>6345800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-01 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>283.2</open>
+      <close>288.0</close>
+      <gap>-4.6999817</gap>
+      <high>292.89</high>
+      <low>282.02</low>
+      <volume>35191700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-08 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>395.11</open>
+      <close>394.78</close>
+      <gap>-13.690002</gap>
+      <high>397.12</high>
+      <low>390.05</low>
+      <volume>5118600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-04 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>443.9</open>
+      <close>445.24</close>
+      <gap>-7.3399963</gap>
+      <high>448.96</high>
+      <low>439.75</low>
+      <volume>15286400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-09 02:47:37.765 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>382.8</open>
+      <close>376.94</close>
+      <gap>8.599976</gap>
+      <high>384.68</high>
+      <low>376.36</low>
+      <volume>4311000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-22 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>196.5</open>
+      <close>191.37</close>
+      <gap>2.550003</gap>
+      <high>198.9</high>
+      <low>190.39</low>
+      <volume>13483700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-24 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>188.69</open>
+      <close>180.72</close>
+      <gap>11.570007</gap>
+      <high>189.33</high>
+      <low>180.32</low>
+      <volume>14022700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-03 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>422.52</open>
+      <close>435.23</close>
+      <gap>-22.720001</gap>
+      <high>435.67</high>
+      <low>418.22</low>
+      <volume>13121200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-24 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>439.4</open>
+      <close>440.5</close>
+      <gap>12.23999</gap>
+      <high>444.7</high>
+      <low>436.52</low>
+      <volume>8836400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-02 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>386.84</open>
+      <close>379.44</close>
+      <gap>12.399994</gap>
+      <high>387.08</high>
+      <low>377.45</low>
+      <volume>6386400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-12 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>283.36</open>
+      <close>289.72</close>
+      <gap>-0.64001465</gap>
+      <high>290.2</high>
+      <low>281.64</low>
+      <volume>6585900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-22 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>367.15</open>
+      <close>365.49</close>
+      <gap>-10.920013</gap>
+      <high>368.95</high>
+      <low>363.86</low>
+      <volume>6476200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-05 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>446.0</open>
+      <close>451.24</close>
+      <gap>-19.660004</gap>
+      <high>451.55</high>
+      <low>441.5</low>
+      <volume>10808300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-10 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>191.97</open>
+      <close>187.98</close>
+      <gap>4.5700073</gap>
+      <high>192.21</high>
+      <low>185.25</low>
+      <volume>18982700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-05 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>187.73</open>
+      <close>188.57</close>
+      <gap>-1.4900055</gap>
+      <high>190.26</high>
+      <low>187.57</low>
+      <volume>8736700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-06 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>376.58</open>
+      <close>389.99</close>
+      <gap>-9.930023</gap>
+      <high>390.0</high>
+      <low>376.3</low>
+      <volume>10259800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-08 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>294.83</open>
+      <close>295.39</close>
+      <gap>-4.26001</gap>
+      <high>299.28</high>
+      <low>293.36</low>
+      <volume>6613300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-27 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>356.6</open>
+      <close>353.06</close>
+      <gap>-1.5700073</gap>
+      <high>357.09</high>
+      <low>351.68</low>
+      <volume>5134400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-22 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>311.5</open>
+      <close>311.37</close>
+      <gap>-3.8599854</gap>
+      <high>319.22</high>
+      <low>310.17</low>
+      <volume>13006400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-19 02:47:37.984 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>280.99</open>
+      <close>280.0</close>
+      <gap>6.9799805</gap>
+      <high>281.45</high>
+      <low>279.62</low>
+      <volume>5542900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-03 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>205.99</open>
+      <close>210.86</close>
+      <gap>1.6300049</gap>
+      <high>213.37</high>
+      <low>205.81</low>
+      <volume>12988100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-11 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>180.44</open>
+      <close>177.8</close>
+      <gap>5.449997</gap>
+      <high>180.95</high>
+      <low>177.15</low>
+      <volume>8028300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-17 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>177.13</open>
+      <close>179.29</close>
+      <gap>-2.9099884</gap>
+      <high>179.64</high>
+      <low>175.8</low>
+      <volume>8260600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-07 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>188.78</open>
+      <close>193.76</close>
+      <gap>-3.2700043</gap>
+      <high>194.62</high>
+      <low>188.64</low>
+      <volume>9692200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-10 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>408.31</open>
+      <close>402.98</close>
+      <gap>21.309998</gap>
+      <high>411.71</high>
+      <low>401.86</low>
+      <volume>6187200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-14 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>178.33</open>
+      <close>174.99</close>
+      <gap>-0.27999878</gap>
+      <high>178.4</high>
+      <low>172.57</low>
+      <volume>11146600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-09 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>200.76</open>
+      <close>191.58</close>
+      <gap>12.779999</gap>
+      <high>201.6</high>
+      <low>189.46</low>
+      <volume>17171500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-19 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>204.65</open>
+      <close>197.3</close>
+      <gap>10.729996</gap>
+      <high>205.3</high>
+      <low>196.71</low>
+      <volume>11257700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-30 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>180.64</open>
+      <close>180.45</close>
+      <gap>0.13000488</gap>
+      <high>181.45</high>
+      <low>179.6</low>
+      <volume>6236100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-01 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>418.47</open>
+      <close>398.9</close>
+      <gap>23.670013</gap>
+      <high>419.44</high>
+      <low>398.55</low>
+      <volume>10361200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-20 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>305.57</open>
+      <close>312.0</close>
+      <gap>-8.369995</gap>
+      <high>312.61</high>
+      <low>301.8</low>
+      <volume>14310400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-06 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>456.87</open>
+      <close>465.66</close>
+      <gap>-10.029999</gap>
+      <high>470.5</high>
+      <low>453.24</low>
+      <volume>17756900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-22 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>222.9</open>
+      <close>215.81</close>
+      <gap>-0.6300049</gap>
+      <high>224.0</high>
+      <low>214.26</low>
+      <volume>33205100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-07 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>205.26</open>
+      <close>196.03</close>
+      <gap>6.619995</gap>
+      <high>206.4</high>
+      <low>195.51</low>
+      <volume>12960400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-26 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>179.27</open>
+      <close>189.24</close>
+      <gap>-8.809998</gap>
+      <high>189.41</high>
+      <low>179.15</low>
+      <volume>12307900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-04 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>389.98</open>
+      <close>390.43</close>
+      <gap>-5.049988</gap>
+      <high>391.79</high>
+      <low>385.45</low>
+      <volume>8824900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-15 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>394.38</open>
+      <close>392.8</close>
+      <gap>-3.769989</gap>
+      <high>397.0</high>
+      <low>390.95</low>
+      <volume>8624900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-28 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>219.5</open>
+      <close>219.45</close>
+      <gap>-0.5</gap>
+      <high>222.08</high>
+      <low>217.71</low>
+      <volume>8682800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-15 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>289.8</open>
+      <close>284.0</close>
+      <gap>4.149994</gap>
+      <high>292.77</high>
+      <low>283.77</low>
+      <volume>8174700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-08 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>292.85</open>
+      <close>279.56</close>
+      <gap>6.5400085</gap>
+      <high>293.19</high>
+      <low>278.0</low>
+      <volume>25700900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-13 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>412.5</open>
+      <close>417.49</close>
+      <gap>-6.4599915</gap>
+      <high>418.0</high>
+      <low>411.64</low>
+      <volume>8157000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-07 02:47:37.781 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>371.5</open>
+      <close>377.95</close>
+      <gap>-9.5</gap>
+      <high>379.73</high>
+      <low>371.15</low>
+      <volume>3946900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-23 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>276.16</open>
+      <close>279.58</close>
+      <gap>-6.4100037</gap>
+      <high>279.74</high>
+      <low>274.12</low>
+      <volume>5821700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-03 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>286.79</open>
+      <close>280.26</close>
+      <gap>-4.149994</gap>
+      <high>289.3</high>
+      <low>277.41</low>
+      <volume>18782300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-25 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>425.78</open>
+      <close>428.62</close>
+      <gap>2.2999878</gap>
+      <high>428.75</high>
+      <low>425.3</low>
+      <volume>4840100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-10 02:47:37.765 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>373.88</open>
+      <close>374.2</close>
+      <gap>5.380005</gap>
+      <high>377.67</high>
+      <low>372.46</low>
+      <volume>4261900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-18 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>233.61</open>
+      <close>239.16</close>
+      <gap>-5.569992</gap>
+      <high>239.97</high>
+      <low>233.52</low>
+      <volume>12312000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-29 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>292.14</open>
+      <close>287.76</close>
+      <gap>0.5300293</gap>
+      <high>292.84</high>
+      <low>286.99</low>
+      <volume>8363300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-28 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>186.0</open>
+      <close>187.99</close>
+      <gap>-0.05999756</gap>
+      <high>189.87</high>
+      <low>185.85</low>
+      <volume>7818400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-28 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>306.28</open>
+      <close>302.0</close>
+      <gap>13.559998</gap>
+      <high>309.25</high>
+      <low>302.0</low>
+      <volume>19036500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-19 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>240.34</open>
+      <close>239.18</close>
+      <gap>-1.2700043</gap>
+      <high>241.17</high>
+      <low>238.27</low>
+      <volume>9716500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-21 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>350.01</open>
+      <close>339.92</close>
+      <gap>9.790009</gap>
+      <high>351.66</high>
+      <low>339.08</low>
+      <volume>9831100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-01 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>385.11</open>
+      <close>375.51</close>
+      <gap>17.879974</gap>
+      <high>385.77</high>
+      <low>375.51</low>
+      <volume>5463200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-14 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>392.12</open>
+      <close>396.97</close>
+      <gap>-0.6799927</gap>
+      <high>398.22</high>
+      <low>391.53</low>
+      <volume>7807900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-15 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>341.27</open>
+      <close>342.38</close>
+      <gap>-25.190002</gap>
+      <high>346.0</high>
+      <low>337.83</low>
+      <volume>12947000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-31 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>373.8</open>
+      <close>371.82</close>
+      <gap>-8.820007</gap>
+      <high>378.25</high>
+      <low>366.78</low>
+      <volume>7981300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-05 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>297.5</open>
+      <close>292.35</close>
+      <gap>6.25</gap>
+      <high>298.51</high>
+      <low>291.31</low>
+      <volume>5939700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-14 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>308.73</open>
+      <close>303.0</close>
+      <gap>6.110016</gap>
+      <high>313.28</high>
+      <low>300.3</low>
+      <volume>11275800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-01 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>368.56</open>
+      <close>364.8</close>
+      <gap>-7.8900146</gap>
+      <high>369.45</high>
+      <low>361.3</low>
+      <volume>12061200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-31 02:47:37.859 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>388.74</open>
+      <close>390.0</close>
+      <gap>-0.960022</gap>
+      <high>391.87</high>
+      <low>384.03</low>
+      <volume>36521400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-18 02:47:37.984 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>275.91</open>
+      <close>279.99</close>
+      <gap>-4.0899963</gap>
+      <high>280.5</high>
+      <low>275.0</low>
+      <volume>11872800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-03 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>186.13</open>
+      <close>187.01</close>
+      <gap>0.23001099</gap>
+      <high>187.75</high>
+      <low>184.31</low>
+      <volume>7608600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-02 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>288.73</open>
+      <close>287.9</close>
+      <gap>8.470001</gap>
+      <high>289.78</high>
+      <low>284.6</low>
+      <volume>17974100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-20 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>306.15</open>
+      <close>307.91</close>
+      <gap>-5.75</gap>
+      <high>311.3</high>
+      <low>305.23</low>
+      <volume>9351000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-01 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>181.76</open>
+      <close>180.04</close>
+      <gap>-3.5299988</gap>
+      <high>182.95</high>
+      <low>179.99</low>
+      <volume>6182000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-18 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>409.75</open>
+      <close>403.05</close>
+      <gap>10.75</gap>
+      <high>410.57</high>
+      <low>397.74</low>
+      <volume>8536800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-12 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>305.2</open>
+      <close>300.97</close>
+      <gap>7.76001</gap>
+      <high>307.19</high>
+      <low>299.0</low>
+      <volume>9306200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-16 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>396.2</open>
+      <close>398.15</close>
+      <gap>-7.25</gap>
+      <high>398.85</high>
+      <low>394.11</low>
+      <volume>8695200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-20 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>192.5</open>
+      <close>193.92</close>
+      <gap>4.220001</gap>
+      <high>196.25</high>
+      <low>192.0</low>
+      <volume>9001600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-30 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>415.6</open>
+      <close>419.33</close>
+      <gap>-7.600006</gap>
+      <high>419.33</high>
+      <low>412.33</low>
+      <volume>6258000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-27 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>422.91</open>
+      <close>420.03</close>
+      <gap>4.970001</gap>
+      <high>426.91</high>
+      <low>419.39</low>
+      <volume>8337900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-16 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>274.26</open>
+      <close>277.44</close>
+      <gap>-6.039978</gap>
+      <high>278.3</high>
+      <low>273.07</low>
+      <volume>12462400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-11 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>471.27</open>
+      <close>471.63</close>
+      <gap>7.639984</gap>
+      <high>475.11</high>
+      <low>469.18</low>
+      <volume>9007400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-19 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>302.1</open>
+      <close>309.9</close>
+      <gap>-9.899994</gap>
+      <high>310.35</high>
+      <low>301.8</low>
+      <volume>12621400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-02 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>403.82</open>
+      <close>396.04</close>
+      <gap>22.27002</gap>
+      <high>406.5</high>
+      <low>395.98</low>
+      <volume>11807700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-13 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>340.93</open>
+      <close>337.06</close>
+      <gap>-10.230011</gap>
+      <high>346.1</high>
+      <low>335.45</low>
+      <volume>13642400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-17 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>230.56</open>
+      <close>233.13</close>
+      <gap>-8.600006</gap>
+      <high>233.45</high>
+      <low>230.2</low>
+      <volume>7808900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-29 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>181.05</open>
+      <close>179.57</close>
+      <gap>0.6000061</gap>
+      <high>183.28</high>
+      <low>178.07</low>
+      <volume>6473000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-06 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>314.14</open>
+      <close>312.75</close>
+      <gap>1.1500244</gap>
+      <high>314.48</high>
+      <low>310.09</low>
+      <volume>7993800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-14 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>417.04</open>
+      <close>418.96</close>
+      <gap>-5.5099792</gap>
+      <high>419.73</high>
+      <low>415.49</low>
+      <volume>6630400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-06 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>282.39</open>
+      <close>290.94</close>
+      <gap>-10.72998</gap>
+      <high>293.75</high>
+      <low>281.83</low>
+      <volume>22525900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-14 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.27</open>
+      <close>191.45</close>
+      <gap>8.270004</gap>
+      <high>194.36</high>
+      <low>190.1</low>
+      <volume>6152700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-05 02:47:37.812 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>421.52</open>
+      <close>421.46</close>
+      <gap>-1.6700134</gap>
+      <high>422.8</high>
+      <low>415.64</low>
+      <volume>4985600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-08 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>405.3</open>
+      <close>410.65</close>
+      <gap>-3.9000244</gap>
+      <high>410.65</high>
+      <low>402.64</low>
+      <volume>8910100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-06 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>385.31</open>
+      <close>385.1</close>
+      <gap>17.389984</gap>
+      <high>389.9</high>
+      <low>379.56</low>
+      <volume>8940400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-07 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>382.99</open>
+      <close>367.92</close>
+      <gap>13.910004</gap>
+      <high>383.7</high>
+      <low>363.35</low>
+      <volume>16630200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-30 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>404.26</open>
+      <close>404.91</close>
+      <gap>-9.829987</gap>
+      <high>408.45</high>
+      <low>395.56</low>
+      <volume>15596600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-28 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>297.41</open>
+      <close>293.5</close>
+      <gap>9.649994</gap>
+      <high>297.41</high>
+      <low>293.28</low>
+      <volume>5925600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-22 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>367.85</open>
+      <close>370.95</close>
+      <gap>-7.7299805</gap>
+      <high>373.03</high>
+      <low>365.25</low>
+      <volume>8604400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-18 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>447.3</open>
+      <close>444.91</close>
+      <gap>10.849976</gap>
+      <high>457.36</high>
+      <low>443.25</low>
+      <volume>20485700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-25 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>302.39</open>
+      <close>295.85</close>
+      <gap>6.3000183</gap>
+      <high>303.29</high>
+      <low>294.96</low>
+      <volume>9658800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-13 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>195.38</open>
+      <close>195.33</close>
+      <gap>-4.5899963</gap>
+      <high>197.39</high>
+      <low>194.05</low>
+      <volume>6849400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-26 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>427.74</open>
+      <close>425.97</close>
+      <gap>7.7099915</gap>
+      <high>430.04</high>
+      <low>423.53</low>
+      <volume>7277800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-09 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>371.2</open>
+      <close>358.77</close>
+      <gap>8.590027</gap>
+      <high>374.4</high>
+      <low>356.11</low>
+      <volume>11912400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-10 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>291.3</open>
+      <close>285.68</close>
+      <gap>7.25</gap>
+      <high>292.33</high>
+      <low>284.88</low>
+      <volume>6879000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-09 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>297.28</open>
+      <close>299.09</close>
+      <gap>-12.459991</gap>
+      <high>299.1</high>
+      <low>296.56</low>
+      <volume>4390500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-13 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>292.51</open>
+      <close>298.86</close>
+      <gap>-8.380005</gap>
+      <high>299.24</high>
+      <low>292.1</low>
+      <volume>11437900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-04 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>201.4</open>
+      <close>194.5</close>
+      <gap>7.8899994</gap>
+      <high>202.93</high>
+      <low>193.48</low>
+      <volume>13755900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-13 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>380.9</open>
+      <close>386.52</close>
+      <gap>-3.4900208</gap>
+      <high>387.0</high>
+      <low>378.12</low>
+      <volume>7659100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-15 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>301.24</open>
+      <close>301.19</close>
+      <gap>1.6999817</gap>
+      <high>303.4</high>
+      <low>299.78</low>
+      <volume>8438400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-08 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.69</open>
+      <close>192.05</close>
+      <gap>0.4600067</gap>
+      <high>195.1</high>
+      <low>191.45</low>
+      <volume>5116600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-08 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>189.1</open>
+      <close>185.2</close>
+      <gap>7.75</gap>
+      <high>189.85</high>
+      <low>184.97</low>
+      <volume>8046100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-15 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.6</open>
+      <close>195.23</close>
+      <gap>-4.8099976</gap>
+      <high>199.84</high>
+      <low>193.08</low>
+      <volume>25782800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-30 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>429.23</open>
+      <close>426.82</close>
+      <gap>-3.4299927</gap>
+      <high>433.28</high>
+      <low>425.0</low>
+      <volume>8588900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-26 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>384.55</open>
+      <close>381.35</close>
+      <gap>12.609985</gap>
+      <high>385.88</high>
+      <low>380.03</low>
+      <volume>3667000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-03 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>298.0</open>
+      <close>297.3</close>
+      <gap>0.269989</gap>
+      <high>299.72</high>
+      <low>295.6</low>
+      <volume>5930600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-27 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>298.9</open>
+      <close>304.1</close>
+      <gap>-3.100006</gap>
+      <high>304.47</high>
+      <low>293.86</low>
+      <volume>17802900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-08 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>368.48</open>
+      <close>369.08</close>
+      <gap>9.710022</gap>
+      <high>370.69</high>
+      <low>354.67</low>
+      <volume>20804100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-09 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>466.41</open>
+      <close>466.9</close>
+      <gap>-3.350006</gap>
+      <high>473.4</high>
+      <low>460.94</low>
+      <volume>12791900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-14 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>278.59</open>
+      <close>278.35</close>
+      <gap>3.7900085</gap>
+      <high>281.24</high>
+      <low>277.75</low>
+      <volume>10091900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-22 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>408.65</open>
+      <close>416.47</close>
+      <gap>-14.209991</gap>
+      <high>417.31</high>
+      <low>406.23</low>
+      <volume>9596000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-11 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>403.42</open>
+      <close>387.0</close>
+      <gap>29.290009</gap>
+      <high>404.71</high>
+      <low>384.98</low>
+      <volume>8892800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-09 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>228.0</open>
+      <close>226.02</close>
+      <gap>0.19999695</gap>
+      <high>228.5</high>
+      <low>225.43</low>
+      <volume>5536800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-24 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>343.37</open>
+      <close>348.65</close>
+      <gap>-3.5400085</gap>
+      <high>349.3</high>
+      <low>342.19</low>
+      <volume>9431700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-29 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>306.68</open>
+      <close>309.62</close>
+      <gap>-9.779999</gap>
+      <high>310.72</high>
+      <low>306.08</low>
+      <volume>5613800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-18 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>407.93</open>
+      <close>404.24</close>
+      <gap>-2.5700073</gap>
+      <high>409.83</high>
+      <low>401.5</low>
+      <volume>8137600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-16 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>176.7</open>
+      <close>175.6</close>
+      <gap>-2.5899963</gap>
+      <high>178.61</high>
+      <low>175.01</low>
+      <volume>7106300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-16 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>284.88</open>
+      <close>285.65</close>
+      <gap>-0.22000122</gap>
+      <high>287.79</high>
+      <low>283.34</low>
+      <volume>7109200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-04 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>186.7</open>
+      <close>185.9</close>
+      <gap>-2.1100006</gap>
+      <high>187.25</high>
+      <low>185.07</low>
+      <volume>6774100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-19 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>373.28</open>
+      <close>370.02</close>
+      <gap>2.3299866</gap>
+      <high>374.5</high>
+      <low>360.57</low>
+      <volume>11398200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-25 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>451.26</open>
+      <close>433.0</close>
+      <gap>16.99002</gap>
+      <high>454.23</high>
+      <low>429.22</low>
+      <volume>18739800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-26 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>220.22</open>
+      <close>218.75</close>
+      <gap>0.44000244</gap>
+      <high>222.0</high>
+      <low>218.29</low>
+      <volume>17272000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-21 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>391.06</open>
+      <close>402.13</close>
+      <gap>-8.890015</gap>
+      <high>404.0</high>
+      <low>389.75</low>
+      <volume>8744400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-25 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>379.08</open>
+      <close>382.99</close>
+      <gap>-2.2700195</gap>
+      <high>383.0</high>
+      <low>372.31</low>
+      <volume>8194600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-10 02:47:37.812 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>423.44</open>
+      <close>418.2</close>
+      <gap>-1.1199951</gap>
+      <high>425.23</high>
+      <low>416.38</low>
+      <volume>4436400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-25 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>181.94</open>
+      <close>177.12</close>
+      <gap>-7.300003</gap>
+      <high>182.24</high>
+      <low>176.29</low>
+      <volume>10659200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-11 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>395.12</open>
+      <close>390.4</close>
+      <gap>-1.8500061</gap>
+      <high>396.9</high>
+      <low>388.85</low>
+      <volume>7063900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-15 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>375.93</open>
+      <close>376.2</close>
+      <gap>4.630005</gap>
+      <high>380.15</high>
+      <low>368.25</low>
+      <volume>8590100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-18 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>378.78</open>
+      <close>370.99</close>
+      <gap>8.76001</gap>
+      <high>381.81</high>
+      <low>370.71</low>
+      <volume>5835000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-12 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.0</open>
+      <close>193.96</close>
+      <gap>0.070007324</gap>
+      <high>194.42</high>
+      <low>189.41</low>
+      <volume>7319600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-02 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>381.7</open>
+      <close>379.68</close>
+      <gap>-4.25</gap>
+      <high>385.0</high>
+      <low>377.17</low>
+      <volume>10565400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-04 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>319.95</open>
+      <close>311.0</close>
+      <gap>9.240021</gap>
+      <high>321.28</high>
+      <low>310.74</low>
+      <volume>9144300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-08 02:47:37.765 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>382.82</open>
+      <close>381.0</close>
+      <gap>5.880005</gap>
+      <high>384.5</high>
+      <low>379.09</low>
+      <volume>5743200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-14 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>196.0</open>
+      <close>199.97</close>
+      <gap>-7.899994</gap>
+      <high>200.01</high>
+      <low>194.13</low>
+      <volume>9640300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-12 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>409.0</open>
+      <close>408.95</close>
+      <gap>6.8399963</gap>
+      <high>411.33</high>
+      <low>405.19</low>
+      <volume>6017000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-04 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>206.47</open>
+      <close>204.36</close>
+      <gap>10.440002</gap>
+      <high>207.75</high>
+      <low>202.6</low>
+      <volume>14819300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-18 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>184.58</open>
+      <close>186.97</close>
+      <gap>-6.819992</gap>
+      <high>187.88</high>
+      <low>183.49</low>
+      <volume>6550300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-22 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>431.77</open>
+      <close>432.04</close>
+      <gap>0.83999634</gap>
+      <high>432.86</high>
+      <low>425.93</low>
+      <volume>7546600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-11 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>228.97</open>
+      <close>231.29</close>
+      <gap>0.25</gap>
+      <high>231.98</high>
+      <low>227.93</low>
+      <volume>11478800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-21 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>448.9</open>
+      <close>437.1</close>
+      <gap>8.399994</gap>
+      <high>450.72</high>
+      <low>436.17</low>
+      <volume>22551300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-11 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.09</open>
+      <close>193.23</close>
+      <gap>-0.8700104</gap>
+      <high>194.8</high>
+      <low>192.32</low>
+      <volume>5410500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-08 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>387.75</open>
+      <close>393.3</close>
+      <gap>1.1799927</gap>
+      <high>394.27</high>
+      <low>378.59</low>
+      <volume>10359500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-27 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>297.74</open>
+      <close>296.93</close>
+      <gap>4.23999</gap>
+      <high>298.23</high>
+      <low>292.4</low>
+      <volume>7217900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-04 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>227.23</open>
+      <close>228.5</close>
+      <gap>0.25</gap>
+      <high>229.88</high>
+      <low>227.0</low>
+      <volume>12083500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-19 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>432.2</open>
+      <close>424.6</close>
+      <gap>2.460022</gap>
+      <high>446.21</high>
+      <low>420.11</low>
+      <volume>21936800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-07 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>297.1</open>
+      <close>293.12</close>
+      <gap>17.540009</gap>
+      <high>299.59</high>
+      <low>290.3</low>
+      <volume>24323000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-12 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>230.81</open>
+      <close>228.72</close>
+      <gap>1.5699921</gap>
+      <high>232.23</high>
+      <low>228.2</low>
+      <volume>8948200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-26 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>388.2</open>
+      <close>385.5</close>
+      <gap>5.8000183</gap>
+      <high>391.91</high>
+      <low>383.0</low>
+      <volume>5531900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-20 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>342.34</open>
+      <close>348.19</close>
+      <gap>2.419983</gap>
+      <high>350.09</high>
+      <low>341.54</low>
+      <volume>10407600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-17 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>404.63</open>
+      <close>407.89</close>
+      <gap>1.5800171</gap>
+      <high>411.0</high>
+      <low>403.72</low>
+      <volume>5811900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-20 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>309.99</open>
+      <close>303.2</close>
+      <gap>-29.910004</gap>
+      <high>311.13</high>
+      <low>301.21</low>
+      <volume>13911700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-11 02:47:37.812 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>418.51</open>
+      <close>424.56</close>
+      <gap>1.2600098</gap>
+      <high>425.05</high>
+      <low>413.03</low>
+      <volume>5971300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-07 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>285.89</open>
+      <close>294.87</close>
+      <gap>-9.5</gap>
+      <high>295.5</high>
+      <low>285.28</low>
+      <volume>7499500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-12 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>194.33</open>
+      <close>195.38</close>
+      <gap>-1.0</gap>
+      <high>195.93</high>
+      <low>190.5</low>
+      <volume>8177800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-07 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>365.02</open>
+      <close>364.45</close>
+      <gap>11.139984</gap>
+      <high>368.45</high>
+      <low>358.15</low>
+      <volume>10378800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-12 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>388.34</open>
+      <close>381.54</close>
+      <gap>1.8200073</gap>
+      <high>390.49</high>
+      <low>381.0</low>
+      <volume>5019100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-27 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>367.09</open>
+      <close>369.69</close>
+      <gap>-10.110016</gap>
+      <high>371.71</high>
+      <low>365.0</low>
+      <volume>7023700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-13 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>346.64</open>
+      <close>345.7</close>
+      <gap>3.3200073</gap>
+      <high>350.6</high>
+      <low>341.89</low>
+      <volume>19717800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-23 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>432.15</open>
+      <close>430.93</close>
+      <gap>7.5099792</gap>
+      <high>432.5</high>
+      <low>428.78</low>
+      <volume>4595100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-30 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>417.27</open>
+      <close>414.86</close>
+      <gap>-17.960022</gap>
+      <high>418.21</high>
+      <low>413.74</low>
+      <volume>7587100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-11 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>296.4</open>
+      <close>293.35</close>
+      <gap>4.619995</gap>
+      <high>296.6</high>
+      <low>291.02</low>
+      <volume>8390300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-20 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>438.7</open>
+      <close>399.46</close>
+      <gap>11.200012</gap>
+      <high>440.03</high>
+      <low>394.74</low>
+      <volume>41116700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-23 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>243.16</open>
+      <close>255.45</close>
+      <gap>-12.839996</gap>
+      <high>258.1</high>
+      <low>242.71</low>
+      <volume>21388300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-15 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>350.77</open>
+      <close>344.5</close>
+      <gap>12.0</gap>
+      <high>352.3</high>
+      <low>340.53</low>
+      <volume>12768800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-15 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>175.3</open>
+      <close>178.61</close>
+      <gap>-0.30000305</gap>
+      <high>180.0</high>
+      <low>174.21</low>
+      <volume>10422100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-05 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>292.1</open>
+      <close>295.71</close>
+      <gap>0.5800171</gap>
+      <high>295.98</high>
+      <low>290.23</low>
+      <volume>7494000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-21 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>386.14</open>
+      <close>390.11</close>
+      <gap>-4.7599792</gap>
+      <high>391.75</high>
+      <low>377.69</low>
+      <volume>11754600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-06 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>406.49</open>
+      <close>411.18</close>
+      <gap>0.32998657</gap>
+      <high>413.89</high>
+      <low>405.43</low>
+      <volume>8598500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-23 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>177.97</open>
+      <close>178.98</close>
+      <gap>-1.2799988</gap>
+      <high>180.24</high>
+      <low>177.97</low>
+      <volume>4845000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-03 02:47:37.812 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>420.04</open>
+      <close>423.2</close>
+      <gap>-1.4199829</gap>
+      <high>423.77</high>
+      <low>419.45</low>
+      <volume>2156700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-24 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>277.57</open>
+      <close>282.57</close>
+      <gap>-5.019989</gap>
+      <high>284.75</high>
+      <low>276.45</low>
+      <volume>8593100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-01 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>288.12</open>
+      <close>291.61</close>
+      <gap>-11.070007</gap>
+      <high>292.5</high>
+      <low>288.1</low>
+      <volume>5662400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-18 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>200.97</open>
+      <close>203.9</close>
+      <gap>3.6699982</gap>
+      <high>205.02</high>
+      <low>198.66</low>
+      <volume>13172600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-29 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>302.5</open>
+      <close>292.72</close>
+      <gap>8.350006</gap>
+      <high>304.38</high>
+      <low>292.15</low>
+      <volume>18298700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-21 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>433.55</open>
+      <close>426.33</close>
+      <gap>1.5099792</gap>
+      <high>436.86</high>
+      <low>420.71</low>
+      <volume>11221900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-28 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>404.01</open>
+      <close>406.11</close>
+      <gap>-13.799988</gap>
+      <high>406.48</high>
+      <low>401.13</low>
+      <volume>3710500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-25 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>252.73</open>
+      <close>260.81</close>
+      <gap>-6.4700165</gap>
+      <high>260.98</high>
+      <low>250.63</low>
+      <volume>18057900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-09 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>395.7</open>
+      <close>408.8</close>
+      <gap>-7.279999</gap>
+      <high>409.0</high>
+      <low>393.75</low>
+      <volume>9140600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-06 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>195.08</open>
+      <close>188.55</close>
+      <gap>1.2299957</gap>
+      <high>195.9</high>
+      <low>187.72</low>
+      <volume>10387100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-07 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>190.64</open>
+      <close>193.85</close>
+      <gap>-4.419998</gap>
+      <high>194.25</high>
+      <low>188.78</low>
+      <volume>9662900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-23 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>407.38</open>
+      <close>427.5</close>
+      <gap>-35.649994</gap>
+      <high>428.39</high>
+      <low>405.73</low>
+      <volume>22741400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-11 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>285.89</open>
+      <close>284.05</close>
+      <gap>-3.8299866</gap>
+      <high>286.58</high>
+      <low>280.62</low>
+      <volume>7514900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-17 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>279.0</open>
+      <close>280.3</close>
+      <gap>-7.700012</gap>
+      <high>280.3</high>
+      <low>275.9</low>
+      <volume>10434400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-13 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>302.0</open>
+      <close>297.44</close>
+      <gap>5.8599854</gap>
+      <high>302.0</high>
+      <low>290.68</low>
+      <volume>10567700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-21 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>399.17</open>
+      <close>409.36</close>
+      <gap>-17.299988</gap>
+      <high>409.98</high>
+      <low>393.49</low>
+      <volume>10335100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-15 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>386.62</open>
+      <close>391.0</close>
+      <gap>-4.080017</gap>
+      <high>392.25</high>
+      <low>383.0</low>
+      <volume>6785700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-05 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>417.0</open>
+      <close>405.85</close>
+      <gap>12.459991</gap>
+      <high>417.5</high>
+      <low>404.28</low>
+      <volume>10289400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-01 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>194.38</open>
+      <close>191.9</close>
+      <gap>-11.580002</gap>
+      <high>196.66</high>
+      <low>190.63</low>
+      <volume>18839000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-02 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>185.95</open>
+      <close>185.18</close>
+      <gap>-1.0599976</gap>
+      <high>187.67</high>
+      <low>184.36</low>
+      <volume>7285500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-24 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>392.82</open>
+      <close>390.9</close>
+      <gap>3.460022</gap>
+      <high>393.89</high>
+      <low>381.21</low>
+      <volume>8086100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-10 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>313.31</open>
+      <close>310.65</close>
+      <gap>7.2099915</gap>
+      <high>314.82</high>
+      <low>309.15</low>
+      <volume>5572200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-16 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>348.61</open>
+      <close>338.77</close>
+      <gap>8.819977</gap>
+      <high>348.75</high>
+      <low>337.9</low>
+      <volume>10016700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-17 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>401.8</open>
+      <close>403.45</close>
+      <gap>1.5899963</gap>
+      <high>403.81</high>
+      <low>399.53</low>
+      <volume>9212200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-24 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>180.7</open>
+      <close>179.25</close>
+      <gap>-0.7200012</gap>
+      <high>180.86</high>
+      <low>179.2</low>
+      <volume>3705200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-23 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>365.61</open>
+      <close>378.07</close>
+      <gap>-11.790009</gap>
+      <high>381.24</high>
+      <low>365.39</low>
+      <volume>12551600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-28 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>371.71</open>
+      <close>377.2</close>
+      <gap>-23.27002</gap>
+      <high>377.86</high>
+      <low>371.17</low>
+      <volume>8945800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-09 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>291.96</open>
+      <close>291.57</close>
+      <gap>6.279999</gap>
+      <high>292.68</high>
+      <low>288.51</low>
+      <volume>5779300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-12 02:47:37.812 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>422.09</open>
+      <close>417.25</close>
+      <gap>13.26001</gap>
+      <high>422.74</high>
+      <low>416.73</low>
+      <volume>4906700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-06 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>289.0</open>
+      <close>287.11</close>
+      <gap>-5.869995</gap>
+      <high>289.39</high>
+      <low>286.8</low>
+      <volume>4212300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-25 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>217.82</open>
+      <close>223.53</close>
+      <gap>-0.9299927</gap>
+      <high>224.74</high>
+      <low>217.52</low>
+      <volume>19840000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-02 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>215.55</open>
+      <close>205.96</close>
+      <gap>4.6900024</gap>
+      <high>216.8</high>
+      <low>203.66</low>
+      <volume>32799300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-23 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>313.0</open>
+      <close>315.36</close>
+      <gap>-1.2799988</gap>
+      <high>317.21</high>
+      <low>312.59</low>
+      <volume>8483800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-26 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>346.28</open>
+      <close>355.44</close>
+      <gap>-6.779999</gap>
+      <high>356.0</high>
+      <low>346.19</low>
+      <volume>8907500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-18 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>300.0</open>
+      <close>299.54</close>
+      <gap>-9.899994</gap>
+      <high>301.9</high>
+      <low>297.75</low>
+      <volume>6207800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-01 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>389.03</open>
+      <close>401.78</close>
+      <gap>-7.01001</gap>
+      <high>402.0</high>
+      <low>387.52</low>
+      <volume>27122500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-26 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>295.01</open>
+      <close>296.09</close>
+      <gap>-1.9199829</gap>
+      <high>298.0</high>
+      <low>292.09</low>
+      <volume>9816900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-25 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>385.02</open>
+      <close>389.36</close>
+      <gap>-0.480011</gap>
+      <high>391.31</high>
+      <low>383.8</low>
+      <volume>5761100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-14 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>389.83</open>
+      <close>384.39</close>
+      <gap>-1.1700134</gap>
+      <high>391.1</high>
+      <low>378.52</low>
+      <volume>7772000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-03 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>389.53</open>
+      <close>389.7</close>
+      <gap>-14.809998</gap>
+      <high>392.47</high>
+      <low>387.93</low>
+      <volume>8122700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-21 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>194.54</open>
+      <close>188.28</close>
+      <gap>13.819992</gap>
+      <high>195.36</high>
+      <low>188.12</low>
+      <volume>9258400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-26 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>439.54</open>
+      <close>434.27</close>
+      <gap>6.0500183</gap>
+      <high>439.99</high>
+      <low>423.56</low>
+      <volume>12926100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-14 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>337.14</open>
+      <close>351.16</close>
+      <gap>-7.3599854</gap>
+      <high>352.37</high>
+      <low>332.62</low>
+      <volume>18450700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-10 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>194.5</open>
+      <close>195.06</close>
+      <gap>0.9600067</gap>
+      <high>198.1</high>
+      <low>191.83</low>
+      <volume>7539600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-29 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>407.99</open>
+      <close>417.81</close>
+      <gap>-11.339996</gap>
+      <high>418.2</high>
+      <low>405.82</low>
+      <volume>6658200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-19 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>390.85</open>
+      <close>388.14</close>
+      <gap>3.6799927</gap>
+      <high>394.8</high>
+      <low>386.98</low>
+      <volume>7633100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-11 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>416.42</open>
+      <close>409.66</close>
+      <gap>7.470001</gap>
+      <high>419.1</high>
+      <low>406.22</low>
+      <volume>11107200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-08 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>353.93</open>
+      <close>353.88</close>
+      <gap>10.929993</gap>
+      <high>360.03</high>
+      <low>350.54</low>
+      <volume>11745600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-17 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>297.5</open>
+      <close>305.0</close>
+      <gap>-5.779999</gap>
+      <high>305.2</high>
+      <low>294.56</low>
+      <volume>7566700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-20 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>276.09</open>
+      <close>286.7</close>
+      <gap>-11.75</gap>
+      <high>287.67</high>
+      <low>271.73</low>
+      <volume>21024700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-27 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>435.0</open>
+      <close>433.49</close>
+      <gap>8.179993</gap>
+      <high>438.22</high>
+      <low>428.98</low>
+      <volume>8452200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-07 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>393.24</open>
+      <close>386.51</close>
+      <gap>-0.05999756</gap>
+      <high>394.86</high>
+      <low>386.5</low>
+      <volume>8911300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-07 02:47:37.812 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>426.05</open>
+      <close>420.45</close>
+      <gap>7.8499756</gap>
+      <high>427.89</high>
+      <low>415.88</low>
+      <volume>6041900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-03 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>221.85</open>
+      <close>226.19</close>
+      <gap>-6.649994</gap>
+      <high>228.15</high>
+      <low>221.32</low>
+      <volume>17780200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-17 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>463.06</open>
+      <close>467.11</close>
+      <gap>18.149994</gap>
+      <high>469.9</high>
+      <low>462.53</low>
+      <volume>8270300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-19 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>412.57</open>
+      <close>410.5</close>
+      <gap>-2.4299927</gap>
+      <high>413.64</high>
+      <low>406.73</low>
+      <volume>6781700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-02 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>286.51</open>
+      <close>288.45</close>
+      <gap>-0.5999756</gap>
+      <high>289.99</high>
+      <low>286.44</low>
+      <volume>3434500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-31 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>177.95</open>
+      <close>180.51</close>
+      <gap>-2.0899963</gap>
+      <high>181.39</high>
+      <low>177.64</low>
+      <volume>6768600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-08 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>293.6</open>
+      <close>291.25</close>
+      <gap>2.0299988</gap>
+      <high>295.65</high>
+      <low>290.49</low>
+      <volume>4481800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-28 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>382.0</open>
+      <close>388.12</close>
+      <gap>-4.600006</gap>
+      <high>389.56</high>
+      <low>381.73</low>
+      <volume>4083600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-13 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>279.82</open>
+      <close>282.75</close>
+      <gap>1.4700012</gap>
+      <high>284.19</high>
+      <low>276.52</low>
+      <volume>12803200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-24 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>377.35</open>
+      <close>381.25</close>
+      <gap>-5.639984</gap>
+      <high>383.44</high>
+      <low>371.61</low>
+      <volume>9553800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-12 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>383.54</open>
+      <close>374.13</close>
+      <gap>7.3399963</gap>
+      <high>384.87</high>
+      <low>373.55</low>
+      <volume>10087600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-28 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>314.22</open>
+      <close>306.0</close>
+      <gap>4.600006</gap>
+      <high>315.1</high>
+      <low>305.6</low>
+      <volume>7997400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-16 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>345.67</open>
+      <close>366.46</close>
+      <gap>-23.079987</gap>
+      <high>367.0</high>
+      <low>344.49</low>
+      <volume>21315500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-21 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>288.07</open>
+      <close>287.84</close>
+      <gap>-1.2299805</gap>
+      <high>290.3</high>
+      <low>284.97</low>
+      <volume>15132300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-27 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>217.99</open>
+      <close>219.78</close>
+      <gap>-1.4599915</gap>
+      <high>220.85</high>
+      <low>216.74</low>
+      <volume>10264800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-25 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>282.55</open>
+      <close>282.59</close>
+      <gap>-1.0299988</gap>
+      <high>284.0</high>
+      <low>279.97</low>
+      <volume>4376600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-07 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>289.39</open>
+      <close>295.54</close>
+      <gap>-6.8399963</gap>
+      <high>295.8</high>
+      <low>288.51</low>
+      <volume>10672100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-30 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>314.22</open>
+      <close>316.46</close>
+      <gap>-4.4599915</gap>
+      <high>317.5</high>
+      <low>312.29</low>
+      <volume>9151300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-22 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>339.75</open>
+      <close>340.22</close>
+      <gap>-2.1400146</gap>
+      <high>344.1</high>
+      <low>337.5</low>
+      <volume>7596000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-11 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>310.61</open>
+      <close>306.1</close>
+      <gap>9.639984</gap>
+      <high>312.65</high>
+      <low>304.86</low>
+      <volume>8542600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-23 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>288.0</open>
+      <close>289.71</close>
+      <gap>-9.25</gap>
+      <high>294.81</high>
+      <low>286.5</low>
+      <volume>14056400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-10 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>407.08</open>
+      <close>416.38</close>
+      <gap>-2.580017</gap>
+      <high>417.17</high>
+      <low>405.25</low>
+      <volume>9320100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-10 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>378.36</open>
+      <close>391.1</close>
+      <gap>-12.040009</gap>
+      <high>391.35</high>
+      <low>377.43</low>
+      <volume>9128700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-05 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>408.2</open>
+      <close>407.99</close>
+      <gap>-2.9799805</gap>
+      <high>414.57</high>
+      <low>402.82</low>
+      <volume>13410500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-14 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>345.33</open>
+      <close>343.32</close>
+      <gap>2.9499817</gap>
+      <high>351.69</high>
+      <low>342.4</low>
+      <volume>14654000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-10 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>181.01</open>
+      <close>179.98</close>
+      <gap>3.2099915</gap>
+      <high>181.2</high>
+      <low>177.4</low>
+      <volume>10960500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-28 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>181.68</open>
+      <close>181.42</close>
+      <gap>2.1099854</gap>
+      <high>184.8</high>
+      <low>180.95</low>
+      <volume>8738000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-05 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.45</open>
+      <close>193.51</close>
+      <gap>4.899994</gap>
+      <high>196.9</high>
+      <low>192.23</low>
+      <volume>8236600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-11 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>186.66</open>
+      <close>187.4</close>
+      <gap>-6.330002</gap>
+      <high>192.32</high>
+      <low>186.07</low>
+      <volume>13116000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-05 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>376.18</open>
+      <close>374.44</close>
+      <gap>-13.809998</gap>
+      <high>381.45</high>
+      <low>374.15</low>
+      <volume>5558500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-13 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>414.0</open>
+      <close>408.83</close>
+      <gap>10.5</gap>
+      <high>418.34</high>
+      <low>406.83</low>
+      <volume>6924500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-16 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>425.34</open>
+      <close>430.15</close>
+      <gap>0.73999023</gap>
+      <high>432.5</high>
+      <low>422.75</low>
+      <volume>16330500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-26 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>283.48</open>
+      <close>283.58</close>
+      <gap>-4.970001</gap>
+      <high>285.02</high>
+      <low>282.66</low>
+      <volume>3755300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-31 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>360.24</open>
+      <close>372.14</close>
+      <gap>-19.140015</gap>
+      <high>374.75</high>
+      <low>359.51</low>
+      <volume>14342900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-09 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>415.0</open>
+      <close>409.2</close>
+      <gap>2.3900146</gap>
+      <high>415.78</high>
+      <low>408.56</low>
+      <volume>7643400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-31 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>430.57</open>
+      <close>432.66</close>
+      <gap>28.790009</gap>
+      <high>439.6</high>
+      <low>423.97</low>
+      <volume>22066000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-05 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>228.62</open>
+      <close>226.98</close>
+      <gap>0.59999084</gap>
+      <high>228.62</high>
+      <low>225.88</low>
+      <volume>7509600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-13 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>464.31</open>
+      <close>466.25</close>
+      <gap>-2.7999878</gap>
+      <high>466.89</high>
+      <low>461.61</low>
+      <volume>7656600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-10 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>464.42</open>
+      <close>469.76</close>
+      <gap>-7.2099915</gap>
+      <high>470.25</high>
+      <low>462.04</low>
+      <volume>9097100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-03 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>382.41</open>
+      <close>385.95</close>
+      <gap>-8.019989</gap>
+      <high>386.58</high>
+      <low>381.38</low>
+      <volume>7448400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-27 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>188.76</open>
+      <close>188.08</close>
+      <gap>-1.5800018</gap>
+      <high>188.86</high>
+      <low>185.2</low>
+      <volume>6627400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-02 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>364.28</open>
+      <close>376.45</close>
+      <gap>-13.899994</gap>
+      <high>381.1</high>
+      <low>362.2</low>
+      <volume>18330300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-03 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>313.63</open>
+      <close>318.68</close>
+      <gap>2.630005</gap>
+      <high>320.11</high>
+      <low>312.79</low>
+      <volume>9160300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-06 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>297.3</open>
+      <close>291.52</close>
+      <gap>1.7599792</gap>
+      <high>297.6</high>
+      <low>291.38</low>
+      <volume>8000300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-29 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>427.98</open>
+      <close>420.15</close>
+      <gap>13.120026</gap>
+      <high>428.73</high>
+      <low>419.17</low>
+      <volume>6945800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-17 02:47:37.984 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>285.51</open>
+      <close>285.1</close>
+      <gap>5.5200195</gap>
+      <high>286.57</high>
+      <low>284.0</low>
+      <volume>3883300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-08-03 02:47:37.781 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>364.98</open>
+      <close>375.39</close>
+      <gap>-8.869995</gap>
+      <high>377.91</high>
+      <low>363.36</low>
+      <volume>6327000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-06 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>228.4</open>
+      <close>228.02</close>
+      <gap>2.3799896</gap>
+      <high>229.25</high>
+      <low>226.47</low>
+      <volume>6763900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-31 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.69</open>
+      <close>195.62</close>
+      <gap>1.7900085</gap>
+      <high>196.36</high>
+      <low>191.72</low>
+      <volume>9596700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-28 02:47:37.921 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>424.34</open>
+      <close>426.69</close>
+      <gap>4.1900024</gap>
+      <high>427.78</high>
+      <low>421.26</low>
+      <volume>7117900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-02 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>416.94</open>
+      <close>417.7</close>
+      <gap>11.089996</gap>
+      <high>419.53</high>
+      <low>413.86</low>
+      <volume>7543500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-14 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>410.33</open>
+      <close>403.5</close>
+      <gap>2.439972</gap>
+      <high>411.49</high>
+      <low>398.61</low>
+      <volume>7552100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-04 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>179.95</open>
+      <close>185.29</close>
+      <gap>-8.62001</gap>
+      <high>185.32</high>
+      <low>179.84</low>
+      <volume>8076400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-06 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>189.24</open>
+      <close>189.22</close>
+      <gap>-4.519989</gap>
+      <high>189.65</high>
+      <low>187.58</low>
+      <volume>5252600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-26 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>406.75</open>
+      <close>404.22</close>
+      <gap>4.4299927</gap>
+      <high>408.3</high>
+      <low>403.25</low>
+      <volume>3551200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-26 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>260.96</open>
+      <close>259.2</close>
+      <gap>-5.0400085</gap>
+      <high>263.76</high>
+      <low>258.3</low>
+      <volume>13546600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-17 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>197.83</open>
+      <close>197.9</close>
+      <gap>-0.11999512</gap>
+      <high>199.75</high>
+      <low>196.81</low>
+      <volume>10414400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-03-17 02:47:37.875 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>338.8</open>
+      <close>339.79</close>
+      <gap>-9.390015</gap>
+      <high>341.78</high>
+      <low>334.93</low>
+      <volume>8551700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-07-31 02:47:37.796 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>388.0</open>
+      <close>386.6</close>
+      <gap>12.48999</gap>
+      <high>389.17</high>
+      <low>383.31</low>
+      <volume>4595300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-12 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>301.75</open>
+      <close>309.74</close>
+      <gap>-9.929993</gap>
+      <high>311.42</high>
+      <low>301.0</low>
+      <volume>10386500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-13 02:47:38.46 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>193.47</open>
+      <close>192.93</close>
+      <gap>2.0200043</gap>
+      <high>194.32</high>
+      <low>189.73</low>
+      <volume>6555800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-10 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>361.95</open>
+      <close>362.61</close>
+      <gap>16.25</gap>
+      <high>364.5</high>
+      <low>353.14</low>
+      <volume>15223500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-28 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>355.27</open>
+      <close>358.17</close>
+      <gap>-16.870026</gap>
+      <high>358.95</high>
+      <low>355.02</low>
+      <volume>5903500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-14 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>299.9</open>
+      <close>296.14</close>
+      <gap>-5.100006</gap>
+      <high>300.23</high>
+      <low>292.54</low>
+      <volume>8519100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-16 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>304.02</open>
+      <close>300.2</close>
+      <gap>0.22998047</gap>
+      <high>304.5</high>
+      <low>299.87</low>
+      <volume>7579800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-08-04 02:47:38.0 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>295.55</open>
+      <close>297.73</close>
+      <gap>3.1999817</gap>
+      <high>299.0</high>
+      <low>295.25</low>
+      <volume>5236500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-03-21 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>179.27</open>
+      <close>180.88</close>
+      <gap>0.66999817</gap>
+      <high>182.17</high>
+      <low>177.25</low>
+      <volume>7483700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-30 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>294.34</open>
+      <close>294.15</close>
+      <gap>3.0899963</gap>
+      <high>298.93</high>
+      <low>291.04</low>
+      <volume>15094400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-01-28 02:47:38.62 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>190.02</open>
+      <close>190.34</close>
+      <gap>-5.599991</gap>
+      <high>194.7</high>
+      <low>186.34</low>
+      <volume>12208200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-02-24 02:47:38.46 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>183.37</open>
+      <close>188.89</close>
+      <gap>-2.5</gap>
+      <high>189.85</high>
+      <low>182.23</low>
+      <volume>25814300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-23 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>402.76</open>
+      <close>404.86</close>
+      <gap>-1.4599915</gap>
+      <high>409.75</high>
+      <low>400.74</low>
+      <volume>5314800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-02-21 02:47:37.890 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>366.44</open>
+      <close>366.59</close>
+      <gap>0.9500122</gap>
+      <high>373.54</high>
+      <low>365.11</low>
+      <volume>8686000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-04-21 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>200.42</open>
+      <close>204.22</close>
+      <gap>-15.389999</gap>
+      <high>205.0</high>
+      <low>199.32</low>
+      <volume>17751900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-01 02:47:37.953 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>371.86</open>
+      <close>379.38</close>
+      <gap>-7.8200073</gap>
+      <high>383.9</high>
+      <low>369.01</low>
+      <volume>16356100</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-01-12 02:47:37.906 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>473.72</open>
+      <close>463.63</close>
+      <gap>7.470001</gap>
+      <high>474.99</high>
+      <low>461.5</low>
+      <volume>10125300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-06-10 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>286.99</open>
+      <close>282.5</close>
+      <gap>4.23999</gap>
+      <high>287.28</high>
+      <low>280.02</low>
+      <volume>12696600</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-03 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>396.35</open>
+      <close>394.17</close>
+      <gap>1.6000061</gap>
+      <high>401.5</high>
+      <low>390.88</low>
+      <volume>8072200</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-10-05 02:47:37.953 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>312.69</open>
+      <close>310.71</close>
+      <gap>-0.05999756</gap>
+      <high>314.9</high>
+      <low>308.0</low>
+      <volume>8328400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-02 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>401.08</open>
+      <close>394.8</close>
+      <gap>6.909973</gap>
+      <high>402.49</high>
+      <low>388.4</low>
+      <volume>13104300</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-31 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>269.43</open>
+      <close>277.27</close>
+      <gap>-18.570007</gap>
+      <high>278.4</high>
+      <low>269.37</low>
+      <volume>22236800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-20 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>241.21</open>
+      <close>241.61</close>
+      <gap>-14.23999</gap>
+      <high>241.67</high>
+      <low>239.65</low>
+      <volume>8163500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-05-02 02:47:38.31 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>222.05</open>
+      <close>222.29</close>
+      <gap>-4.1399994</gap>
+      <high>223.7</high>
+      <low>220.21</low>
+      <volume>9767400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-06-09 02:47:37.828 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>392.19</open>
+      <close>386.57</close>
+      <gap>10.649994</gap>
+      <high>395.43</high>
+      <low>385.35</low>
+      <volume>6157500</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-07 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>412.41</open>
+      <close>406.16</close>
+      <gap>-3.9700012</gap>
+      <high>412.85</high>
+      <low>404.02</low>
+      <volume>7025900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-12-06 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>408.7</open>
+      <close>404.54</close>
+      <gap>4.480011</gap>
+      <high>416.41</high>
+      <low>401.7</low>
+      <volume>15114700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-07-22 02:47:38.15 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>306.37</open>
+      <close>302.4</close>
+      <gap>10.519989</gap>
+      <high>309.25</high>
+      <low>296.33</low>
+      <volume>23386800</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-25 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>439.63</open>
+      <close>427.16</close>
+      <gap>13.660004</gap>
+      <high>441.04</high>
+      <low>426.0</low>
+      <volume>9569000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-09-19 02:47:37.968 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>301.0</open>
+      <close>303.79</close>
+      <gap>-6.9100037</gap>
+      <high>306.0</high>
+      <low>300.71</low>
+      <volume>5761900</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2005-11-28 02:47:37.937 CST</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>429.82</open>
+      <close>423.48</close>
+      <gap>26.279999</gap>
+      <high>431.24</high>
+      <low>422.44</low>
+      <volume>11008400</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-05-30 02:47:37.843 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>378.28</open>
+      <close>371.94</close>
+      <gap>6.4599915</gap>
+      <high>381.0</high>
+      <low>371.45</low>
+      <volume>4316000</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+  <entry>
+    <date>2006-04-04 02:47:37.859 CDT</date>
+    <com.sa.marketslayer.library.databeans.MarketDay>
+      <date reference="../../date"/>
+      <open>389.9</open>
+      <close>404.34</close>
+      <gap>-18.089996</gap>
+      <high>404.9</high>
+      <low>388.14</low>
+      <volume>15715700</volume>
+    </com.sa.marketslayer.library.databeans.MarketDay>
+  </entry>
+</map>

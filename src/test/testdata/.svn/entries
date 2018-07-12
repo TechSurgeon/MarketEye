@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="24"
+   name=""
+   committed-date="2006-10-17T00:06:56.278375Z"
+   url="svn://marketron/MarketSlayer/src/test/testdata"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="BKMP.dat"
+   text-time="2007-03-01T04:36:25.006448Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="e2b894c13e864d0261db4a0a7b648c4a"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.005008Z"/>
+<entry
+   committed-rev="24"
+   name="GOOG.dat"
+   text-time="2007-03-01T04:36:25.096577Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="0f119f0ad02078b209e9570d66a2eaca"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.175252Z"/>
+<entry
+   committed-rev="24"
+   name="IMTR.dat"
+   text-time="2007-03-01T04:36:25.116606Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="de5667c6d6f354f9f64152100bf189ca"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.215310Z"/>
+<entry
+   committed-rev="24"
+   name="UCHB.rb"
+   text-time="2007-03-01T04:36:25.146649Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="3b658248b5a853ca5680aff4c9ef6e44"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.335483Z"/>
+<entry
+   committed-rev="24"
+   name="PHBT.dat"
+   text-time="2007-03-01T04:36:25.166678Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="92dd90416fa422e15cc82eb9a19db786"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.415598Z"/>
+<entry
+   committed-rev="24"
+   name="TEST.dat"
+   text-time="2007-03-01T04:36:25.186707Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="e0c560123b64b2563f0b12b5e5f91c56"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.445641Z"/>
+<entry
+   committed-rev="24"
+   name="Thumbs.db"
+   text-time="2007-03-01T04:36:25.196721Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="352e79934614968c41070d9fe17b4c02"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.455656Z"/>
+<entry
+   name="NASDAQ"
+   kind="dir"/>
+<entry
+   committed-rev="24"
+   name="VSUS.dat"
+   text-time="2007-03-01T04:36:25.216750Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="9b58fb9f54541ea5367cca831240baa9"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.675972Z"/>
+<entry
+   name="OTCBB"
+   kind="dir"/>
+<entry
+   committed-rev="24"
+   name="UCHB.sec"
+   text-time="2007-03-01T04:36:25.226764Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="c65fc2b948e9c5a50af5f7d378215c0c"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.846217Z"/>
+<entry
+   committed-rev="24"
+   name="STTK.dat"
+   text-time="2007-03-01T04:36:25.246793Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="f7737efa0aeb73164d135f1b33868b3a"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.866246Z"/>
+<entry
+   committed-rev="24"
+   name="PersistFileUtilTestFile.dat"
+   text-time="2007-03-01T04:36:25.266822Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="816c185799f639999c16ed25bbf54cb7"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.876260Z"/>
+</wc-entries>

@@ -1,0 +1,2010 @@
+<tree-map>
+  <no-comparator/>
+  <entry>
+    <string>0000001</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000001</local__messageID>
+      <minimessage>Test</minimessage>
+      <userID>stockstrike  </userID>
+      <date>2005-09-23 01:25:00.609 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000002</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000002</local__messageID>
+      <minimessage>i loaded 25K at avg. of 0.053 today ! very hard to</minimessage>
+      <userID>hurensack0  </userID>
+      <date>2005-09-23 01:43:00.609 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000003</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000003</local__messageID>
+      <minimessage>update for VSUS from PQL Research:</minimessage>
+      <userID>hurensack0  </userID>
+      <date>2005-09-23 01:46:00.609 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000004</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000004</local__messageID>
+      <minimessage>bought more at 0.08! now long 50K at avg. 0.066. i</minimessage>
+      <userID>hurensack0  </userID>
+      <date>2005-09-23 04:40:00.609 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000005</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000005</local__messageID>
+      <minimessage>monday/tuesday .20s at least</minimessage>
+      <userID>tiddlywinksok  </userID>
+      <date>2005-09-23 11:45:00.609 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000007</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000007</local__messageID>
+      <minimessage>VSUS software for compliance got any comments on t</minimessage>
+      <userID>mmtrader717  </userID>
+      <date>2005-09-27 01:02:00.609 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000008</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000008</local__messageID>
+      <minimessage>Any good advice for vsus? It was supposed to go up</minimessage>
+      <userID>xylan  </userID>
+      <date>2005-09-27 10:46:00.453 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000009</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000009</local__messageID>
+      <minimessage>There selling product the contracts and numbers</minimessage>
+      <userID>mmtrader717  </userID>
+      <date>2005-09-27 11:51:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000010</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000010</local__messageID>
+      <minimessage>Shakerzzzz and Moverzzzzz ALERT on Yahoo &amp; Ihub </minimessage>
+      <userID>mmtrader717  </userID>
+      <date>2005-09-27 12:19:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000011</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000011</local__messageID>
+      <minimessage>Wall Street News alert filed on www.pinksheets.com</minimessage>
+      <userID>mmtrader717  </userID>
+      <date>2005-09-27 01:34:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000013</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000013</local__messageID>
+      <minimessage>How far do you think vsus will go before the bounc</minimessage>
+      <userID>xylan  </userID>
+      <date>2005-09-28 11:28:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000014</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000014</local__messageID>
+      <minimessage>Xylan...IMO, I would say the bottom was put in tod</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-09-28 02:28:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000018</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000018</local__messageID>
+      <minimessage>post #3 is good also financing was needed and a co</minimessage>
+      <userID>mmtrader717  </userID>
+      <date>2005-09-29 11:47:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000020</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000020</local__messageID>
+      <minimessage>Volume usually first before PPS change ..... just </minimessage>
+      <userID>mmtrader717  </userID>
+      <date>2005-09-30 07:53:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000022</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000022</local__messageID>
+      <minimessage>The one year contracts in the PR news are @ a figu</minimessage>
+      <userID>mmtrader717  </userID>
+      <date>2005-10-02 08:55:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000023</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000023</local__messageID>
+      <minimessage>Get ready for the big move, higher lows(.07), .10 </minimessage>
+      <userID>cautionupahead  </userID>
+      <date>2005-10-05 05:30:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000024</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000024</local__messageID>
+      <minimessage>caution....I agree, if we hold here at .068 and mo</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-05 09:29:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000026</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000026</local__messageID>
+      <minimessage>longjohn...I added a bunch at .06 and will add mor</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-05 01:32:00.656 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000028</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000028</local__messageID>
+      <minimessage>longjohnn...have you heard anything about new cont</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-05 04:39:00.515 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000030</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000030</local__messageID>
+      <minimessage>Thanks longjohnn, I&apos;ve actually got a vmail into t</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-05 09:01:00.515 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000031</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000031</local__messageID>
+      <minimessage>What up, Eat Me?  See if you can figure out who th</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-06 12:42:00.515 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000034</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000034</local__messageID>
+      <minimessage>Tim...are you still long this stock?  What are you</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-06 09:56:00.515 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000036</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000036</local__messageID>
+      <minimessage>Looks like a good volume day headed our way as wel</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-06 11:23:00.515 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000037</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000037</local__messageID>
+      <minimessage>bought some VSUS...Thanks longjohn...GLTA! eom</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-06 01:13:00.515 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000039</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000039</local__messageID>
+      <minimessage>longjohnn...Unfortunately I have no friends left a</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-06 01:59:00.515 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000040</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000040</local__messageID>
+      <minimessage>FWI...When I placed my order for 30k Etrade filled</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-06 02:26:00.437 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000041</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000041</local__messageID>
+      <minimessage>Oops! I was mistaken...</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-06 02:29:00.437 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000042</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000042</local__messageID>
+      <minimessage>Okay...50k total shares. WTF! eom</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-06 05:01:00.437 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000043</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000043</local__messageID>
+      <minimessage>Did you see this...</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-06 05:05:00.437 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000044</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000044</local__messageID>
+      <minimessage>TheDane...this thing is poised to move up here.  S</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-06 05:05:00.437 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000045</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000045</local__messageID>
+      <minimessage>That was a mis print me thinkg.  The total volume </minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-06 05:08:00.437 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000046</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000046</local__messageID>
+      <minimessage>Misprint? I wondered how it could trade like that.</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-06 05:17:00.437 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000047</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000047</local__messageID>
+      <minimessage>thnx for tips!  have been glued to pc last several</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-06 11:47:00.359 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000048</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000048</local__messageID>
+      <minimessage>FYI...I do not think the 346,500 trade at the clos</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-07 10:45:00.359 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000049</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000049</local__messageID>
+      <minimessage>It&apos;s almost as if the MM&apos;s brought the price down </minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-07 10:47:00.359 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000054</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000054</local__messageID>
+      <minimessage>Thnx eatmenasdaq.</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-09 03:43:00.359 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000057</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000057</local__messageID>
+      <minimessage>Wish I had cash to buy a little more tomorrow a.m.</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-10 11:37:00.359 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000058</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000058</local__messageID>
+      <minimessage>When????</minimessage>
+      <userID>xylan  </userID>
+      <date>2005-10-11 10:47:00.359 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000059</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000059</local__messageID>
+      <minimessage>600k last trade? Anyone know why these giant trade</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-11 05:22:00.359 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000060</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000060</local__messageID>
+      <minimessage>600k last trade? Anyone know why these giant trade</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-11 05:22:00.281 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000064</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000064</local__messageID>
+      <minimessage>Took profits on UPDA &amp; added another 40000 shares </minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-11 09:51:00.281 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000066</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000066</local__messageID>
+      <minimessage>We&apos;re moving today - volume still low.  Bid .07, A</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-12 01:02:00.281 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000067</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000067</local__messageID>
+      <minimessage>Bought in this AM...The pressure is building e/m</minimessage>
+      <userID>mike93433  </userID>
+      <date>2005-10-12 01:59:00.281 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000070</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000070</local__messageID>
+      <minimessage>Looking real good here.  Technicals look amazing. </minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-12 07:04:00.875 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000078</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000078</local__messageID>
+      <minimessage>Is today the day?  Let&apos;s bring that .10 wall down.</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-13 09:45:00.875 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000080</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000080</local__messageID>
+      <minimessage>longjohnn...no sellers here, this thing is poised </minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-13 11:23:00.734 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000082</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000082</local__messageID>
+      <minimessage>Hey Eatme </minimessage>
+      <userID>teico  </userID>
+      <date>2005-10-13 11:34:00.734 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000083</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000083</local__messageID>
+      <minimessage>teico...it is still very early here.  There was a </minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-13 11:43:00.734 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000084</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000084</local__messageID>
+      <minimessage>Something is up.  HDSN and SBSH are on the bid.  I</minimessage>
+      <userID>cautionupahead  </userID>
+      <date>2005-10-13 12:18:00.734 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000086</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000086</local__messageID>
+      <minimessage>eatme       .............................what abou</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-13 09:58:00.718 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000087</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000087</local__messageID>
+      <minimessage>Eat,be careful.American Bulls put a sell-if label </minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-13 10:10:00.718 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000089</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000089</local__messageID>
+      <minimessage>At 7 cents I dont think it has much of anything go</minimessage>
+      <userID>pageturner8  </userID>
+      <date>2005-10-14 01:16:00.718 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000093</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000093</local__messageID>
+      <minimessage>It really is funny to see these pitiful efforts to</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-14 09:07:00.718 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000094</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000094</local__messageID>
+      <minimessage>This stock is very tightly held.</minimessage>
+      <userID>bsps0  </userID>
+      <date>2005-10-14 10:52:00.640 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000096</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000096</local__messageID>
+      <minimessage>Yes, I got in a piece Wed and balance Thursday.  M</minimessage>
+      <userID>bsps0  </userID>
+      <date>2005-10-14 11:18:00.640 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000098</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000098</local__messageID>
+      <minimessage>Not yet</minimessage>
+      <userID>bsps0  </userID>
+      <date>2005-10-14 12:05:00.640 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000099</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000099</local__messageID>
+      <minimessage>On SHO List</minimessage>
+      <userID>bsps0  </userID>
+      <date>2005-10-14 12:08:00.640 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000101</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000101</local__messageID>
+      <minimessage>there is a lot of question about it but it is basi</minimessage>
+      <userID>bsps0  </userID>
+      <date>2005-10-14 01:46:00.640 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000102</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000102</local__messageID>
+      <minimessage>NITE doing everything possible to collect shares t</minimessage>
+      <userID>bsps0  </userID>
+      <date>2005-10-14 04:48:00.640 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000103</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000103</local__messageID>
+      <minimessage>Will close up everyday this week</minimessage>
+      <userID>bsps0  </userID>
+      <date>2005-10-14 04:52:00.640 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000105</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000105</local__messageID>
+      <minimessage>This is only a test eom</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-14 08:01:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000106</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000106</local__messageID>
+      <minimessage>VSUS-Another sell if warning on American bulls.BTw</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-14 08:06:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000110</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000110</local__messageID>
+      <minimessage>vsus                                   sell signal</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-17 09:27:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000111</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000111</local__messageID>
+      <minimessage>Eat longjohns,get fat                         Look</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-17 09:29:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000112</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000112</local__messageID>
+      <minimessage>no news since August.boy do we need news.We could </minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-17 09:32:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000113</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000113</local__messageID>
+      <minimessage>Eat me - what&apos;s the word?  Sitting on a bunch of s</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-17 09:38:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000115</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000115</local__messageID>
+      <minimessage>EATME - I too added more shares of VSUS today (yes</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-17 10:57:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000117</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000117</local__messageID>
+      <minimessage>Eatmespindoctor              So the other day you </minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-18 10:15:00.484 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000119</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000119</local__messageID>
+      <minimessage>The price has to double every day to keep some inv</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-10-18 12:32:00.484 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000120</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000120</local__messageID>
+      <minimessage>Enjoy the ride, err, I mean slide.</minimessage>
+      <userID>big_man_on_board  </userID>
+      <date>2005-10-18 12:50:00.484 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000127</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000127</local__messageID>
+      <minimessage>Vsus-trouble in paradice...............Be patient </minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-19 08:53:00.484 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000129</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000129</local__messageID>
+      <minimessage>Eatme,what will you say next,that you like little </minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-19 09:06:00.93 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000132</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000132</local__messageID>
+      <minimessage>Eatme,public float is larger because of sellers.La</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-19 09:47:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000133</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000133</local__messageID>
+      <minimessage>Eatme,Don&apos;t confuse Big balls with stupidity.&amp;quot</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-19 09:49:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000134</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000134</local__messageID>
+      <minimessage>Eat,beleifs,not beleives,and I&apos;m only metaphorical</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-19 09:51:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000136</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000136</local__messageID>
+      <minimessage>Eatme says it would make sense for Ceo to buy shar</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-19 10:12:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000137</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000137</local__messageID>
+      <minimessage>Bign getsb hammerred 20%</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-19 10:39:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000145</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000145</local__messageID>
+      <minimessage>Bign looks like it&apos;s overbought on OBV indicator</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-22 04:50:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000146</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000146</local__messageID>
+      <minimessage>Vsus                                         looks</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-10-22 04:56:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000147</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000147</local__messageID>
+      <minimessage>I didn&apos;t like the fact that it broke through the p</minimessage>
+      <userID>sponge_bob55  </userID>
+      <date>2005-10-23 12:31:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000149</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000149</local__messageID>
+      <minimessage>Three really big trades again today:</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-26 12:22:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000150</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000150</local__messageID>
+      <minimessage>Hey eatme</minimessage>
+      <userID>teico  </userID>
+      <date>2005-10-26 02:02:00.15 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000152</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000152</local__messageID>
+      <minimessage>Shorts may finally be covering.IMO</minimessage>
+      <userID>cautionupahead  </userID>
+      <date>2005-10-26 04:57:00.859 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000154</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000154</local__messageID>
+      <minimessage>EatMe,</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-10-27 12:25:00.859 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000156</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000156</local__messageID>
+      <minimessage>I have been looking for a board on VSUS.  I&apos;ve bee</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-10-31 01:35:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000158</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000158</local__messageID>
+      <minimessage>what&apos;s going on today?  .05 gone in seconds....  L</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-10-31 02:35:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000159</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000159</local__messageID>
+      <minimessage>109K traded today.  I would not call this alot of </minimessage>
+      <userID>aggie9518  </userID>
+      <date>2005-10-31 03:15:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000160</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000160</local__messageID>
+      <minimessage>Has anyone been in touch with this company?  </minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-01 10:16:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000162</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000162</local__messageID>
+      <minimessage>Are they aware they are on the SHO list?</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-01 10:56:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000164</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000164</local__messageID>
+      <minimessage>THX  I will</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-01 11:05:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000165</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000165</local__messageID>
+      <minimessage>Seeing a little action this am.  Low volume and ho</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-02 11:38:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000167</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000167</local__messageID>
+      <minimessage>He has not returned my call.</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-04 09:19:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000168</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000168</local__messageID>
+      <minimessage>FYI:  WE are off the REG SHO list</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-04 09:21:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000172</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000172</local__messageID>
+      <minimessage>funny how everyone needs this software,yet nobody </minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-11-14 08:46:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000173</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000173</local__messageID>
+      <minimessage>ProPTC and contracts</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-16 09:33:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000174</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000174</local__messageID>
+      <minimessage>Look out - here it goes!!!</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-16 02:31:00.859 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000175</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000175</local__messageID>
+      <minimessage>Major news tomorrow??  Partnering with someone to </minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-16 10:57:00.703 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000176</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000176</local__messageID>
+      <minimessage>I think any gain, it at all, will quickly plummet </minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-17 09:07:00.703 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000177</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000177</local__messageID>
+      <minimessage>bid = ask at .076</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-17 01:01:00.703 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000178</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000178</local__messageID>
+      <minimessage>anyone watching the action today?  Nite &amp; ARCA duk</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-18 01:17:00.703 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000179</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000179</local__messageID>
+      <minimessage>Katrina,</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-18 01:32:00.703 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000180</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000180</local__messageID>
+      <minimessage>Thanks ridin--wish I could get out, too...still ha</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-18 01:36:00.703 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000182</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000182</local__messageID>
+      <minimessage>Katrina-</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-18 01:40:00.703 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000183</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000183</local__messageID>
+      <minimessage>Don&apos;t you mean, Thank Jesus-VSUS?</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-18 01:41:00.625 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000186</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000186</local__messageID>
+      <minimessage>It&apos;s obvious neither Nite or Arca want this to bre</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-18 01:54:00.625 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000187</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000187</local__messageID>
+      <minimessage>It&apos;s obvious neither Nite or Arca want this to bre</minimessage>
+      <userID>katrina7771  </userID>
+      <date>2005-11-18 01:55:00.625 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000188</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000188</local__messageID>
+      <minimessage>ProPTCwhat do you based your glowing reports on?</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-18 03:45:00.625 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000190</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000190</local__messageID>
+      <minimessage>ProPTC customer</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-18 09:20:00.218 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000192</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000192</local__messageID>
+      <minimessage>Eatme,So what is your answer to my statement that </minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-11-19 12:59:00.218 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000194</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000194</local__messageID>
+      <minimessage>12 million shares traded?</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-20 06:42:00.218 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000195</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000195</local__messageID>
+      <minimessage>eatme,  are you really a Merrill Lynch broker?</minimessage>
+      <userID>jccarol123  </userID>
+      <date>2005-11-21 09:59:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000196</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000196</local__messageID>
+      <minimessage>I sold a couple of weeks ago for .05-.06. Hoo boy.</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-11-21 02:57:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000197</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000197</local__messageID>
+      <minimessage>Eatme Eatme,Huh,I didn&apos;t leave 30-40% profit on th</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-11-21 04:30:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000199</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000199</local__messageID>
+      <minimessage>Sounds to me like both of you made money...Thats t</minimessage>
+      <userID>aggie9518  </userID>
+      <date>2005-11-21 08:43:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000200</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000200</local__messageID>
+      <minimessage>OUCH!  Sorry to hear that.  And I was kicking myse</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-21 09:37:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000201</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000201</local__messageID>
+      <minimessage>No worries. i did not lose all that much but I sur</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-11-21 10:15:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000202</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000202</local__messageID>
+      <minimessage>Not very sure why, but have my theories.</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-21 11:12:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000203</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000203</local__messageID>
+      <minimessage>My post that you posted sounds like a legitimate b</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-11-22 09:46:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000204</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000204</local__messageID>
+      <minimessage>VSUS Down big time today</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-22 11:02:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000205</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000205</local__messageID>
+      <minimessage>Climbing back up after a slight pullback. Its rock</minimessage>
+      <userID>bowty2fl  </userID>
+      <date>2005-11-22 12:58:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000206</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000206</local__messageID>
+      <minimessage>One possible reason this has been going up is beca</minimessage>
+      <userID>bowty2fl  </userID>
+      <date>2005-11-22 03:41:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000207</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000207</local__messageID>
+      <minimessage>Who is tcdolphin?  I have been reading his analysi</minimessage>
+      <userID>gahandman1  </userID>
+      <date>2005-11-22 05:57:00.140 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000208</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000208</local__messageID>
+      <minimessage>I don&apos;t know how I found him. So far hes 50/50. Hi</minimessage>
+      <userID>bowty2fl  </userID>
+      <date>2005-11-22 07:11:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000209</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000209</local__messageID>
+      <minimessage>the dreaded letter E..</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-25 01:45:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000210</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000210</local__messageID>
+      <minimessage>VSUS.OB.......umm, i mean VSUSE.OB financials</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-26 09:44:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000211</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000211</local__messageID>
+      <minimessage>Bounty--</minimessage>
+      <userID>impoornomore  </userID>
+      <date>2005-11-27 01:10:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000212</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000212</local__messageID>
+      <minimessage>The link is  A HREF=&quot;http://mysite.verizon.net/vze</minimessage>
+      <userID>bowty2fl  </userID>
+      <date>2005-11-27 05:56:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000213</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000213</local__messageID>
+      <minimessage>Many Thanks Bounty. EOM</minimessage>
+      <userID>impoornomore  </userID>
+      <date>2005-11-27 10:05:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000214</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000214</local__messageID>
+      <minimessage>what happened today?????????</minimessage>
+      <userID>gunner3307  </userID>
+      <date>2005-11-28 10:58:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000215</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000215</local__messageID>
+      <minimessage>well i doubt if it had anything to do with these r</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-29 09:38:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000216</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000216</local__messageID>
+      <minimessage>Case 1:03CV2372 - Augrid Corp</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-29 02:08:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000217</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000217</local__messageID>
+      <minimessage>oops. last post belonged on AUGC board</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-29 02:18:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000218</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000218</local__messageID>
+      <minimessage>OK, is everyone reading this board stunned or what</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-11-29 03:51:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000219</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000219</local__messageID>
+      <minimessage>I sold 50k at .05 on November 8th. Yes, I&apos;m stunne</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-11-30 08:37:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000220</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000220</local__messageID>
+      <minimessage>And here comes the freefall</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-30 10:06:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000221</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000221</local__messageID>
+      <minimessage>Free fall? 30 million shares outstanding, seems to</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-11-30 10:15:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000222</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000222</local__messageID>
+      <minimessage>My optimistic feeling is that this company reports</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-11-30 10:22:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000223</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000223</local__messageID>
+      <minimessage>dropping about 40% in a few minutes is a freefall.</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-30 10:23:00.984 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000224</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000224</local__messageID>
+      <minimessage>Funny. the stock goes up 1000% from three weeks ag</minimessage>
+      <userID>TheDane  </userID>
+      <date>2005-11-30 11:33:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000225</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000225</local__messageID>
+      <minimessage>watch it go lower</minimessage>
+      <userID>running123  </userID>
+      <date>2005-11-30 11:45:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000226</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000226</local__messageID>
+      <minimessage>From the looks of the buys going through in 6 figu</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-11-30 03:26:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000227</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000227</local__messageID>
+      <minimessage>POP.</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-11-30 06:21:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000228</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000228</local__messageID>
+      <minimessage>Is VSUS a scam?</minimessage>
+      <userID>big_man_on_board  </userID>
+      <date>2005-12-01 09:57:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000229</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000229</local__messageID>
+      <minimessage>big man... did you see the financials published..</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-01 10:17:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000230</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000230</local__messageID>
+      <minimessage>VSUS.OB.. Ummm I mean VSUSE.OB trading</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-01 04:38:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000231</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000231</local__messageID>
+      <minimessage>VSUS.. i mean VSUS.OB.. here it goes..</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-02 01:09:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000232</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000232</local__messageID>
+      <minimessage>i forgot the E..</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-02 01:10:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000233</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000233</local__messageID>
+      <minimessage>what happened to all the pumpsters</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-04 11:02:00.828 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000234</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000234</local__messageID>
+      <minimessage>with the news on monday or tuesday this should go </minimessage>
+      <userID>mrvollis  </userID>
+      <date>2005-12-04 01:16:00.812 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000235</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000235</local__messageID>
+      <minimessage>with the track record of this company, i expect th</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-04 03:15:00.812 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000236</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000236</local__messageID>
+      <minimessage>vsus, i mean .E.. MONDAY</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-05 10:11:00.812 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000237</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000237</local__messageID>
+      <minimessage>pumpsters... all slipped away</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-06 08:41:00.812 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000238</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000238</local__messageID>
+      <minimessage>Every dog has it&apos;s day.So check out cbxc.Small flo</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-12-06 09:29:00.812 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000239</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000239</local__messageID>
+      <minimessage>So you think it is normal for a stock..</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-07 10:05:00.671 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000240</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000240</local__messageID>
+      <minimessage>homeland Security...........................Sitg i</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-12-07 07:46:00.671 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000241</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000241</local__messageID>
+      <minimessage>AUGC (augrid) claimed to be working on homeland se</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-07 08:19:00.671 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000242</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000242</local__messageID>
+      <minimessage>AUGD and SITG.........................Here&apos;s the d</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-12-08 08:18:00.671 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000243</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000243</local__messageID>
+      <minimessage>BTW,CBXC.............................Great day tod</minimessage>
+      <userID>bullhorny1  </userID>
+      <date>2005-12-08 08:19:00.671 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000244</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000244</local__messageID>
+      <minimessage>VSUS pumpsters.. all gone.. i mean VSUSE pumpsters</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-12 03:17:00.671 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000245</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000245</local__messageID>
+      <minimessage>link to VSUSE.................OB&apos;S financials</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-12 03:19:00.671 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000246</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000246</local__messageID>
+      <minimessage>the sell off continues</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-12 04:25:00.593 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000247</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000247</local__messageID>
+      <minimessage>sell off, part II </minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-15 05:41:00.593 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000248</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000248</local__messageID>
+      <minimessage>Running -</minimessage>
+      <userID>ridin-fast  </userID>
+      <date>2005-12-15 09:33:00.593 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000249</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000249</local__messageID>
+      <minimessage>Blogging, reporting, analysis, expose&apos; fact findin</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-16 01:13:00.593 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000251</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000251</local__messageID>
+      <minimessage>VSUS FINANCIALS</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-19 08:11:00.187 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000252</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000252</local__messageID>
+      <minimessage>running123, where are you? Who is to defend us aga</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-12-19 12:42:00.187 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000253</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000253</local__messageID>
+      <minimessage>watch it come back down..</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-19 01:43:00.187 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000254</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000254</local__messageID>
+      <minimessage>Skip the wager, I want to know why it&apos;s going up.</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-12-19 01:59:00.187 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000255</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000255</local__messageID>
+      <minimessage>VSUS WITH NO E AND MICROSOFT SOUNDS GOOD TO ALL !!</minimessage>
+      <userID>thematsa  </userID>
+      <date>2005-12-19 02:29:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000256</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000256</local__messageID>
+      <minimessage>thematsa,</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-12-19 04:01:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000257</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000257</local__messageID>
+      <minimessage>why is it going up</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-19 05:02:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000258</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000258</local__messageID>
+      <minimessage>you may have an answer but your credibility is sho</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-12-19 07:04:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000259</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000259</local__messageID>
+      <minimessage>credibility.. mine has been proven over and over..</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-19 07:29:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000260</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000260</local__messageID>
+      <minimessage>and speaking of volume... </minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-19 08:26:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000261</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000261</local__messageID>
+      <minimessage>running123, you seem to spend a lot of time analyz</minimessage>
+      <userID>EJH50  </userID>
+      <date>2005-12-19 09:33:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000262</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000262</local__messageID>
+      <minimessage>if you are part of that run up today, the SEC may </minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-19 09:45:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000263</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000263</local__messageID>
+      <minimessage>Cup and handle formation just beautiful ,</minimessage>
+      <userID>kodkod2  </userID>
+      <date>2005-12-20 02:16:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000264</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000264</local__messageID>
+      <minimessage>cup and handle? lol</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-20 07:43:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000265</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000265</local__messageID>
+      <minimessage>more on cup and handle. lol</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-20 10:06:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000266</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000266</local__messageID>
+      <minimessage>PUMPSTERS.. where is the cup and  handle</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-21 12:10:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000267</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000267</local__messageID>
+      <minimessage>not cup and handle. but.....</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-21 12:47:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000268</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000268</local__messageID>
+      <minimessage>where are the cup and handle pumpsters</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-21 01:33:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000269</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000269</local__messageID>
+      <minimessage>proptc&apos;s recent customer announcement</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-21 02:58:00.46 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000270</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000270</local__messageID>
+      <minimessage>VSUS....</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-22 02:03:00.31 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000271</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000271</local__messageID>
+      <minimessage>oops, i spoke too soon...</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-22 02:44:00.890 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000273</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000273</local__messageID>
+      <minimessage>VSUS (ummm, dot OB)</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-27 12:30:00.890 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000274</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000274</local__messageID>
+      <minimessage>VSUS.. Yep........... dot OB down over 17%</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-27 01:22:00.890 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000275</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000275</local__messageID>
+      <minimessage>PROPTC&apos;S Customer</minimessage>
+      <userID>running123  </userID>
+      <date>2005-12-28 02:44:00.890 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000276</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000276</local__messageID>
+      <minimessage>well well well. proptc</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-03 06:58:00.890 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000277</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000277</local__messageID>
+      <minimessage>Running123 - The only thing &apos;odd&apos; here is your obs</minimessage>
+      <userID>nyse50  </userID>
+      <date>2006-01-03 09:49:00.890 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000278</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000278</local__messageID>
+      <minimessage>NYS50 vsus</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 10:49:00.875 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000279</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000279</local__messageID>
+      <minimessage>Notify them you&apos;re a certified WHACKO!  EOM</minimessage>
+      <userID>nyse50  </userID>
+      <date>2006-01-04 10:53:00.875 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000280</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000280</local__messageID>
+      <minimessage>ProPTC customer</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 11:14:00.875 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000281</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000281</local__messageID>
+      <minimessage>oops, my first typo</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 11:15:00.875 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000282</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000282</local__messageID>
+      <minimessage>WHO CARES ABOUT AUGRID?  ONLY YOU.</minimessage>
+      <userID>nyse50  </userID>
+      <date>2006-01-04 11:32:00.875 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000283</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000283</local__messageID>
+      <minimessage>vsus claims that augrid is a customer</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 11:36:00.875 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000284</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000284</local__messageID>
+      <minimessage>So they don&apos;t pay.  You get rid of them as a custo</minimessage>
+      <userID>nyse50  </userID>
+      <date>2006-01-04 11:44:00.875 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000285</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000285</local__messageID>
+      <minimessage>mabye augrid paid them with augrid stock!</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 11:50:00.718 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000286</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000286</local__messageID>
+      <minimessage>No one cares, but you.  Get lost.</minimessage>
+      <userID>nyse50  </userID>
+      <date>2006-01-04 12:18:00.718 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000287</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000287</local__messageID>
+      <minimessage>sec cares</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 12:29:00.718 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000288</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000288</local__messageID>
+      <minimessage>I don&apos;t care.  Don&apos;t think anyone else does either</minimessage>
+      <userID>nyse50  </userID>
+      <date>2006-01-04 12:54:00.718 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000289</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000289</local__messageID>
+      <minimessage>Be prepared to lose all your money. NYSE is in the</minimessage>
+      <userID>rogerdodger07  </userID>
+      <date>2006-01-04 01:04:00.718 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000290</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000290</local__messageID>
+      <minimessage>NYSE - signs of a pumpster i detected</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 01:09:00.718 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000291</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000291</local__messageID>
+      <minimessage>Ladies and Gentlemen,</minimessage>
+      <userID>masorra  </userID>
+      <date>2006-01-04 02:44:00.718 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000292</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000292</local__messageID>
+      <minimessage>NASDAQ company?</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 03:08:00.640 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000293</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000293</local__messageID>
+      <minimessage>post 292</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 03:10:00.640 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000294</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000294</local__messageID>
+      <minimessage>VSUS&apos;s own words</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 04:09:00.640 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000295</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000295</local__messageID>
+      <minimessage>TRADING</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 04:22:00.640 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000296</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000296</local__messageID>
+      <minimessage>call vsus</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-04 07:06:00.640 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000297</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000297</local__messageID>
+      <minimessage>another day</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-05 05:54:00.640 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000298</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000298</local__messageID>
+      <minimessage>another day</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-05 05:54:00.640 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000299</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000299</local__messageID>
+      <minimessage>Revenue</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-08 10:35:00.562 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000300</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000300</local__messageID>
+      <minimessage>here we go again</minimessage>
+      <userID>running123  </userID>
+      <date>2006-01-11 10:24:00.562 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000301</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000301</local__messageID>
+      <minimessage>where are all the pumpsters?</minimessage>
+      <userID>running123  </userID>
+      <date>2006-02-12 03:26:00.562 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000302</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000302</local__messageID>
+      <minimessage>VSUS</minimessage>
+      <userID>running123  </userID>
+      <date>2006-02-18 04:04:00.562 CST</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000303</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000303</local__messageID>
+      <minimessage>No the SEC has found out about a patent that VSUS </minimessage>
+      <userID>Joeybig  </userID>
+      <date>2006-04-06 12:31:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000304</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000304</local__messageID>
+      <minimessage>Irwin Meyer owes Netcurrent Shareholders over 2 mi</minimessage>
+      <userID>Joeybig  </userID>
+      <date>2006-04-06 04:34:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000305</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000305</local__messageID>
+      <minimessage>A letter to the Attorney General will be sent. Nev</minimessage>
+      <userID>Joeybig  </userID>
+      <date>2006-04-06 04:38:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000306</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000306</local__messageID>
+      <minimessage>Don&apos;t forget to mention how IM spent time in jail </minimessage>
+      <userID>fumbles  </userID>
+      <date>2006-04-07 10:46:00.562 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000307</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000307</local__messageID>
+      <minimessage>read about how AUGC claimed to be using proptc (vs</minimessage>
+      <userID>running123  </userID>
+      <date>2006-04-13 09:21:00.500 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000308</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000308</local__messageID>
+      <minimessage>I don&apos;t understand, is this really a company?</minimessage>
+      <userID>mzsmeow  </userID>
+      <date>2006-06-13 10:56:00.484 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000309</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000309</local__messageID>
+      <minimessage>Anybody still here?</minimessage>
+      <userID>jccarol123  </userID>
+      <date>2006-06-24 09:32:00.484 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+  <entry>
+    <string>0000310</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <local__messageID>0000310</local__messageID>
+      <minimessage>AUGC claimed to be working with this company</minimessage>
+      <userID>running123  </userID>
+      <date>2006-06-30 04:50:00.484 CDT</date>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </entry>
+</tree-map>

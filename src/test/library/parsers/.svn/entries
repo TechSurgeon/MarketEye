@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="24"
+   name=""
+   committed-date="2006-10-17T00:06:56.278375Z"
+   url="svn://marketron/MarketSlayer/src/test/library/parsers"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="TestPSParser.java"
+   text-time="2007-03-01T04:36:23.203856Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="9e3e8bc5d733dd87cc1b3f3883c7bfb3"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:23.053640Z"/>
+<entry
+   committed-rev="24"
+   name="TestRBParser.java"
+   text-time="2007-03-01T04:36:23.223884Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="0ef7ecd1212128047eb2855a21a70959"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:23.073668Z"/>
+<entry
+   committed-rev="24"
+   name="TestNasdaqParser.java"
+   text-time="2007-03-01T04:36:23.243913Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="010bef9e23f5215ea50593010b944110"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:23.083683Z"/>
+<entry
+   committed-rev="24"
+   name="TestOTCBBParser.java"
+   text-time="2007-03-01T04:36:23.253928Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="567a90e088076cca1fbf9a2f711f37b4"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:23.113726Z"/>
+<entry
+   committed-rev="24"
+   name="TestAMEXParser.java"
+   text-time="2007-03-01T04:36:23.273956Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="9a88358e00154a82bc5484d2026b0c78"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:23.123740Z"/>
+<entry
+   committed-rev="24"
+   name="TestAllParsers.java"
+   text-time="2007-03-01T04:36:23.283971Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="70469928126a9336cf8138bad525e06f"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:23.143769Z"/>
+<entry
+   committed-rev="24"
+   name="TestHDParser.java"
+   text-time="2007-03-01T04:36:23.304000Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="5fea485cbe008ffb8e92242341c45fe3"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:23.153784Z"/>
+</wc-entries>

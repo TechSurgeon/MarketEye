@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+   <class name="com.sa.marketslayer.library.databeans.EmailHit"
+      table="emailhits">
+      <id name="id" column="id">
+         <generator class="increment"/>
+      </id>
+      <property
+         name="id"
+         column="id"/>
+	  <property
+         name="mySecId"
+         column="mySecId"/>
+      <property
+         name="lookup"
+         column="lookup"/>
+      <property
+         name="rcvdDate"
+         column="rcvdDate"/>
+   </class>
+</hibernate-mapping>

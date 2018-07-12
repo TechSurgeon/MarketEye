@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="24"
+   name=""
+   committed-date="2006-10-17T00:06:56.278375Z"
+   url="svn://marketron/MarketSlayer/src/test/utils"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="TestPersistFileUtil.java"
+   text-time="2007-03-01T04:36:22.462790Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="bbf3b8ebb58d0a94cef8557e2d59418c"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:22.432747Z"/>
+</wc-entries>

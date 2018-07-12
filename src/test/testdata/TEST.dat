@@ -1,0 +1,2360 @@
+<com.sa.hermes.library.databeans.RBMessageTrail serialization="custom">
+  <map>
+    <default>
+      <loadFactor>0.75</loadFactor>
+      <threshold>384</threshold>
+    </default>
+    <int>512</int>
+    <int>335</int>
+    <string>0016636</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016636</id>
+      <m>test</m>
+      <user>JimisJim  </user>
+      <d>2006-06-22 05:40:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016807</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016807</id>
+      <m>only a test </m>
+      <user>07isback  </user>
+      <d>2006-07-20 12:54:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016681</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016681</id>
+      <m>Trophy for r s date guessing contest I   Nitetrade</m>
+      <user>rjr999  </user>
+      <d>2006-07-01 10:26:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016564</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016564</id>
+      <m>Testing</m>
+      <user>donpat0002  </user>
+      <d>2006-06-07 09:21:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016738</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016738</id>
+      <m>TEST</m>
+      <user>coolwateraro  </user>
+      <d>2006-07-10 10:21:00.781 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016751</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016751</id>
+      <m>    &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;</m>
+      <user>ludes-714  </user>
+      <d>2006-07-14 10:23:00.140 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016687</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016687</id>
+      <m>MESSAGE TO BASHERS</m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 06:55:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016615</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016615</id>
+      <m>yo</m>
+      <user>steveharris310  </user>
+      <d>2006-06-20 03:03:00.156 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016839</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016839</id>
+      <m>test</m>
+      <user>not2nutz  </user>
+      <d>2006-07-24 09:09:00.640 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016563</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016563</id>
+      <m>test</m>
+      <user>El_Lion  </user>
+      <d>2006-06-06 07:06:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016686</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016686</id>
+      <m></m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 06:55:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016637</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016637</id>
+      <m>Due   checking to see if you are still alive  LMFA</m>
+      <user>courtwinner  </user>
+      <d>2006-06-22 06:20:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016817</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016817</id>
+      <m>hello</m>
+      <user>MTGdaddy  </user>
+      <d>2006-07-21 01:44:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016613</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016613</id>
+      <m>test</m>
+      <user>astromancer  </user>
+      <d>2006-06-19 07:59:00.234 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016657</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016657</id>
+      <m>This is a test</m>
+      <user>jmarketer  </user>
+      <d>2006-06-26 03:57:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016859</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016859</id>
+      <m>test</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-07-26 03:17:00.406 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016910</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016910</id>
+      <m>       &amp;     </m>
+      <user>jabberjaw521  </user>
+      <d>2006-08-04 05:51:00.375 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016736</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016736</id>
+      <m>test</m>
+      <user>shillterminator  </user>
+      <d>2006-07-10 05:00:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016785</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016785</id>
+      <m>test test test</m>
+      <user>earl_hickey  </user>
+      <d>2006-07-17 03:34:00.890 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016719</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016719</id>
+      <m>Pen I think their circuits are overloaded by the s</m>
+      <user>brown1snoopie  </user>
+      <d>2006-07-06 11:37:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016784</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016784</id>
+      <m>test</m>
+      <user>vikilee  </user>
+      <d>2006-07-17 02:39:00.890 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016846</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016846</id>
+      <m>test</m>
+      <user>woranpeese  </user>
+      <d>2006-07-25 01:53:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016663</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016663</id>
+      <m>test</m>
+      <user>kashman9  </user>
+      <d>2006-06-27 05:33:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016732</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016732</id>
+      <m>test</m>
+      <user>07isback  </user>
+      <d>2006-07-10 01:11:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016855</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016855</id>
+      <m>test</m>
+      <user>stockjoker0  </user>
+      <d>2006-07-26 01:00:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016634</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016634</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 03:21:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016899</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016899</id>
+      <m>test</m>
+      <user>JoFotoz  </user>
+      <d>2006-08-02 07:10:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016776</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016776</id>
+      <m>test</m>
+      <user>shillterminator  </user>
+      <d>2006-07-17 04:35:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016806</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016806</id>
+      <m>rrrr</m>
+      <user>xrayviscion  </user>
+      <d>2006-07-20 12:49:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016783</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016783</id>
+      <m>test2</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 01:46:00.890 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016718</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016718</id>
+      <m>Test back at ya, Browm, WTf is going on with posti</m>
+      <user>penny_trades_pennies  </user>
+      <d>2006-07-06 11:19:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016809</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016809</id>
+      <m>test</m>
+      <user>snotsy-1  </user>
+      <d>2006-07-20 02:16:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016565</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016565</id>
+      <m>test</m>
+      <user>nybikerdude  </user>
+      <d>2006-06-07 09:28:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016853</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016853</id>
+      <m>test test</m>
+      <user>bcarnival0  </user>
+      <d>2006-07-26 12:33:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016821</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016821</id>
+      <m>test</m>
+      <user>dereckman  </user>
+      <d>2006-07-21 11:16:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016843</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016843</id>
+      <m>test</m>
+      <user>buzzying  </user>
+      <d>2006-07-25 11:49:00.640 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016782</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016782</id>
+      <m>test1</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 01:45:00.890 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016656</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016656</id>
+      <m>This is a test</m>
+      <user>Bowdrie  </user>
+      <d>2006-06-26 03:47:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016779</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016779</id>
+      <m>ANTs Software Expands Relationship with Database P</m>
+      <user>may.trix  </user>
+      <d>2006-07-17 11:18:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016780</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016780</id>
+      <m>test,,,</m>
+      <user>holotawoopas  </user>
+      <d>2006-07-17 01:24:00.890 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016638</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016638</id>
+      <m>test</m>
+      <user>shakin_again  </user>
+      <d>2006-06-23 01:29:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016616</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016616</id>
+      <m>test</m>
+      <user>coucoumerevoilou  </user>
+      <d>2006-06-20 10:06:00.156 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016662</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016662</id>
+      <m>This is a test</m>
+      <user>kashman9  </user>
+      <d>2006-06-27 05:22:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016822</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016822</id>
+      <m> A HREF &quot;http:  ragingbull.lycos.com mboard edit.c</m>
+      <user>archangel230  </user>
+      <d>2006-07-22 01:05:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016561</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016561</id>
+      <m>test</m>
+      <user>suk-r  </user>
+      <d>2006-06-06 10:36:00.703 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016739</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016739</id>
+      <m>right..</m>
+      <user>usdollar2  </user>
+      <d>2006-07-11 01:57:00.781 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016658</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016658</id>
+      <m>test............</m>
+      <user>napleon_solo  </user>
+      <d>2006-06-26 08:52:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016568</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016568</id>
+      <m>test</m>
+      <user>nufced  </user>
+      <d>2006-06-07 04:39:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016635</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016635</id>
+      <m>test</m>
+      <user>bullstamp  </user>
+      <d>2006-06-22 04:38:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016683</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016683</id>
+      <m>Anyone notice that bashersuit on da YAKC board has</m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 06:50:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016778</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016778</id>
+      <m>lock 3rd   prevent auto s delete</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 11:12:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016618</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016618</id>
+      <m>xxxx</m>
+      <user>owl3rd  </user>
+      <d>2006-06-21 04:34:00.156 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016689</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016689</id>
+      <m>To: bashersuit AT yahoo.com </m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 07:00:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016823</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016823</id>
+      <m>test</m>
+      <user>numismaticdude  </user>
+      <d>2006-07-22 03:08:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016786</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016786</id>
+      <m>test</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 03:44:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016781</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016781</id>
+      <m>test</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 01:45:00.890 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016862</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016862</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-07-27 12:34:00.406 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016900</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016900</id>
+      <m>test</m>
+      <user>truthonlypls  </user>
+      <d>2006-08-03 01:03:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016562</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016562</id>
+      <m>testing</m>
+      <user>ragingbullrep  </user>
+      <d>2006-06-06 12:27:00.703 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016798</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016798</id>
+      <m>test</m>
+      <user>rawnoc_02  </user>
+      <d>2006-07-19 10:53:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016617</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016617</id>
+      <m>John 14:6</m>
+      <user>eagle____12  </user>
+      <d>2006-06-21 02:49:00.156 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016680</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016680</id>
+      <m>dude, you are a loser</m>
+      <user>perry_grind  </user>
+      <d>2006-07-01 03:02:00.15 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016722</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016722</id>
+      <m>...used to be such a nice site...</m>
+      <user>kingsblackrook  </user>
+      <d>2006-07-06 04:47:00.15 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016845</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016845</id>
+      <m>test</m>
+      <user>vikilee  </user>
+      <d>2006-07-25 01:42:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016799</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016799</id>
+      <m>Month Avg Fails % Deviation from June 2004 Fails a</m>
+      <user>wannabeguru  </user>
+      <d>2006-07-19 11:21:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016639</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016639</id>
+      <m>test</m>
+      <user>whopperma  </user>
+      <d>2006-06-23 10:37:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016702</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016702</id>
+      <m>Check</m>
+      <user>kashman9  </user>
+      <d>2006-07-03 11:14:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016586</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016586</id>
+      <m>test</m>
+      <user>lord_valdemor  </user>
+      <d>2006-06-12 01:05:00.468 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016642</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016642</id>
+      <m>ragingbullrep can you explain a little as to what </m>
+      <user>BigApplePi  </user>
+      <d>2006-06-23 10:46:00.343 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016694</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016694</id>
+      <m>test</m>
+      <user>douglas-fir  </user>
+      <d>2006-07-01 11:37:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016571</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016571</id>
+      <m>test</m>
+      <user>tip4u1  </user>
+      <d>2006-06-08 10:23:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016598</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016598</id>
+      <m>.</m>
+      <user>Mighty_Mezz  </user>
+      <d>2006-06-15 05:36:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016731</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016731</id>
+      <m>TEST!</m>
+      <user>paim_train  </user>
+      <d>2006-07-10 12:42:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016890</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016890</id>
+      <m>I could find only 91 stocks with 2  billion share</m>
+      <user>badjack10000  </user>
+      <d>2006-08-01 07:53:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016861</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016861</id>
+      <m>test</m>
+      <user>investorshub2  </user>
+      <d>2006-07-27 08:56:00.406 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016744</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016744</id>
+      <m>test</m>
+      <user>greggosford1  </user>
+      <d>2006-07-13 01:21:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016915</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016915</id>
+      <m>TEST</m>
+      <user>gismys.07  </user>
+      <d>2006-08-04 08:12:00.359 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016700</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016700</id>
+      <m>test 2</m>
+      <user>kashman9  </user>
+      <d>2006-07-03 10:28:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016838</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016838</id>
+      <m>link</m>
+      <user>may.trix  </user>
+      <d>2006-07-24 08:03:00.640 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016585</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016585</id>
+      <m>test</m>
+      <user>exploreportscrack43  </user>
+      <d>2006-06-12 12:08:00.468 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016588</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016588</id>
+      <m>COUPLE POSTINGS FROM ONE OF DUE DILIGENCE BOARDS (</m>
+      <user>lord_valdemor  </user>
+      <d>2006-06-12 01:20:00.468 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016770</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016770</id>
+      <m>test</m>
+      <user>research247  </user>
+      <d>2006-07-16 06:58:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016876</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016876</id>
+      <m>sliffpliff</m>
+      <user>imfinehowareyou  </user>
+      <d>2006-07-30 06:33:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016787</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016787</id>
+      <m>test</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 03:44:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016693</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016693</id>
+      <m>From: &amp;quot;mjzwebner AT sprynet DOT com&amp;quot; Add</m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 07:15:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016758</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016758</id>
+      <m>test</m>
+      <user>gismys.07  </user>
+      <d>2006-07-16 01:40:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016597</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016597</id>
+      <m>test</m>
+      <user>vistaviewer0  </user>
+      <d>2006-06-15 12:47:00.390 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016844</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016844</id>
+      <m>test</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-07-25 12:57:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016717</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016717</id>
+      <m>test</m>
+      <user>brown1snoopie  </user>
+      <d>2006-07-06 10:15:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016741</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016741</id>
+      <m>Test</m>
+      <user>penny_trades_pennies  </user>
+      <d>2006-07-12 11:37:00.765 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016860</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016860</id>
+      <m>zxcv</m>
+      <user>no.pr.4.u  </user>
+      <d>2006-07-26 04:28:00.406 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016745</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016745</id>
+      <m>test</m>
+      <user>ubankk  </user>
+      <d>2006-07-13 02:03:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016688</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016688</id>
+      <m>Msg: 7092 of 8484  </m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 06:56:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016692</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016692</id>
+      <m></m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 07:13:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016891</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016891</id>
+      <m>ttt</m>
+      <user>xrayviscion  </user>
+      <d>2006-08-02 08:23:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016878</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016878</id>
+      <m>Test</m>
+      <user>ragingbullrep4  </user>
+      <d>2006-07-31 01:04:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016789</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016789</id>
+      <m>test</m>
+      <user>shillterminator  </user>
+      <d>2006-07-17 05:30:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016701</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016701</id>
+      <m>test 3</m>
+      <user>kashman9  </user>
+      <d>2006-07-03 10:30:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016748</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016748</id>
+      <m>.</m>
+      <user>xrayviscion  </user>
+      <d>2006-07-13 05:49:00.140 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016879</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016879</id>
+      <m>test</m>
+      <user>vancouver-scam-stock  </user>
+      <d>2006-07-31 03:20:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016691</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016691</id>
+      <m>NOTE: IN THIS NEXT MESSAGE I USED &amp;quot;AT&amp;quot; I</m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 07:12:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016600</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016600</id>
+      <m>test</m>
+      <user>neutrali  </user>
+      <d>2006-06-15 08:14:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016633</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016633</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 02:34:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016723</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016723</id>
+      <m>test</m>
+      <user>askastockninja  </user>
+      <d>2006-07-06 08:18:00.0 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016599</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016599</id>
+      <m>testing</m>
+      <user>buyandhold29588  </user>
+      <d>2006-06-15 07:42:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016826</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016826</id>
+      <m>test</m>
+      <user>gismys.07  </user>
+      <d>2006-07-23 07:31:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016609</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016609</id>
+      <m> test </m>
+      <user>off2theraces  </user>
+      <d>2006-06-18 03:27:00.234 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016610</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016610</id>
+      <m>Test</m>
+      <user>big__stiffy  </user>
+      <d>2006-06-18 09:38:00.234 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016788</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016788</id>
+      <m>test</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 03:44:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016587</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016587</id>
+      <m>Can you say </m>
+      <user>lord_valdemor  </user>
+      <d>2006-06-12 01:17:00.468 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016877</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016877</id>
+      <m>test</m>
+      <user>mod_squad_eliminator  </user>
+      <d>2006-07-31 07:25:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016836</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016836</id>
+      <m>test</m>
+      <user>07isback  </user>
+      <d>2006-07-24 04:06:00.640 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016660</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016660</id>
+      <m>post test</m>
+      <user>dw70  </user>
+      <d>2006-06-26 09:42:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016912</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016912</id>
+      <m>&amp;H</m>
+      <user>jabberjaw521  </user>
+      <d>2006-08-04 05:54:00.359 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016875</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016875</id>
+      <m>test</m>
+      <user>jcline  </user>
+      <d>2006-07-30 01:07:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016665</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016665</id>
+      <m>you have passed your test and your reply to your o</m>
+      <user>paccfacts  </user>
+      <d>2006-06-28 12:16:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016708</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016708</id>
+      <m>test</m>
+      <user>courtwinner  </user>
+      <d>2006-07-04 01:54:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016759</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016759</id>
+      <m>OOP&amp;#423;&amp;#8252;</m>
+      <user>DueDillinger  </user>
+      <d>2006-07-16 06:38:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016749</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016749</id>
+      <m>hola</m>
+      <user>Dream_Weaving  </user>
+      <d>2006-07-14 04:34:00.140 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016705</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016705</id>
+      <m>test</m>
+      <user>dr._mahn_suhn  </user>
+      <d>2006-07-03 02:57:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016716</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016716</id>
+      <m>test</m>
+      <user>brown1snoopie  </user>
+      <d>2006-07-06 10:15:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016830</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016830</id>
+      <m>test</m>
+      <user>solar2005goose  </user>
+      <d>2006-07-24 11:17:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016867</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016867</id>
+      <m>rty</m>
+      <user>usdollar2  </user>
+      <d>2006-07-28 09:53:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016664</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016664</id>
+      <m>awsdf</m>
+      <user>astromancer  </user>
+      <d>2006-06-27 11:17:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016715</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016715</id>
+      <m>test</m>
+      <user>courtwinner  </user>
+      <d>2006-07-06 09:22:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016566</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016566</id>
+      <m>What the hell is wrong with this web site </m>
+      <user>vistaviewer0  </user>
+      <d>2006-06-07 12:30:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016881</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016881</id>
+      <m>abcd</m>
+      <user>jo.jitsu  </user>
+      <d>2006-07-31 08:39:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016866</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016866</id>
+      <m>test</m>
+      <user>woranpeese  </user>
+      <d>2006-07-28 09:49:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016917</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016917</id>
+      <m>test </m>
+      <user>ragingbullrep7  </user>
+      <d>2006-08-04 12:19:00.359 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016893</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016893</id>
+      <m>A HREF &quot;http:  www.sec.gov litigation litrelease</m>
+      <user>xrayviscion  </user>
+      <d>2006-08-02 12:38:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016596</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016596</id>
+      <m>test</m>
+      <user>ohiobuckeye2  </user>
+      <d>2006-06-15 01:16:00.390 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016865</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016865</id>
+      <m>Why does RB block posting multiple links to good </m>
+      <user>search4stock  </user>
+      <d>2006-07-28 12:58:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016729</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016729</id>
+      <m>test</m>
+      <user>24thepriceof1  </user>
+      <d>2006-07-08 11:52:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016592</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016592</id>
+      <m>test</m>
+      <user>myredazz  </user>
+      <d>2006-06-13 11:01:00.390 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016918</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016918</id>
+      <m>test</m>
+      <user>woranpeese  </user>
+      <d>2006-08-04 01:22:00.296 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016690</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016690</id>
+      <m>Anyone notice that bashersuit on da YAKC board has</m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 07:09:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016640</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016640</id>
+      <m>testing</m>
+      <user>whopperma  </user>
+      <d>2006-06-23 10:37:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016880</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016880</id>
+      <m>test</m>
+      <user>not2nutz  </user>
+      <d>2006-07-31 06:40:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016684</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016684</id>
+      <m>Re: basher boy</m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 06:51:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016707</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016707</id>
+      <m>fgj</m>
+      <user>hale-n-hearty.fish  </user>
+      <d>2006-07-04 12:22:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016763</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016763</id>
+      <m>New try,  Capital Growth Resources</m>
+      <user>research247  </user>
+      <d>2006-07-16 06:50:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016622</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016622</id>
+      <m>TESTING</m>
+      <user>ragingbullrep  </user>
+      <d>2006-06-22 12:01:00.593 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016762</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016762</id>
+      <m>New try,  Capital Growth Resources</m>
+      <user>research247  </user>
+      <d>2006-07-16 06:43:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016868</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016868</id>
+      <m>test</m>
+      <user>tina23fl  </user>
+      <d>2006-07-28 11:10:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016594</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016594</id>
+      <m>tst</m>
+      <user>chilly.tepin  </user>
+      <d>2006-06-13 08:54:00.390 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016885</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016885</id>
+      <m>TEST</m>
+      <user>rafael636  </user>
+      <d>2006-08-01 02:46:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016661</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016661</id>
+      <m>test</m>
+      <user>imarockssoliddude  </user>
+      <d>2006-06-27 02:21:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016755</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016755</id>
+      <m>we re really cooking now! </m>
+      <user>jrswanson  </user>
+      <d>2006-07-16 12:40:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016608</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016608</id>
+      <m>test</m>
+      <user>off2theraces  </user>
+      <d>2006-06-18 03:26:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016764</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016764</id>
+      <m>New try, Capital Growth Resources </m>
+      <user>research247  </user>
+      <d>2006-07-16 06:52:00.984 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016641</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016641</id>
+      <m>test</m>
+      <user>dead..fish  </user>
+      <d>2006-06-23 10:43:00.343 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016709</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016709</id>
+      <m>Test</m>
+      <user>breakthebankalice  </user>
+      <d>2006-07-04 03:47:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016916</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016916</id>
+      <m>test with text</m>
+      <user>ragingbullrep7  </user>
+      <d>2006-08-04 12:14:00.359 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016591</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016591</id>
+      <m>test</m>
+      <user>nanoforever  </user>
+      <d>2006-06-12 04:25:00.468 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016756</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016756</id>
+      <m>Still working</m>
+      <user>jrswanson  </user>
+      <d>2006-07-16 10:46:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016911</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016911</id>
+      <m>             </m>
+      <user>jabberjaw521  </user>
+      <d>2006-08-04 05:53:00.375 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016824</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016824</id>
+      <m>test</m>
+      <user>pennies_trades_penny  </user>
+      <d>2006-07-22 11:53:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016882</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016882</id>
+      <m>Test</m>
+      <user>gismys.07  </user>
+      <d>2006-07-31 10:30:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016703</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016703</id>
+      <m>Check, Check</m>
+      <user>kashman9  </user>
+      <d>2006-07-03 11:22:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016754</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016754</id>
+      <m>another test</m>
+      <user>jrswanson  </user>
+      <d>2006-07-16 12:35:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016589</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016589</id>
+      <m>Hmm. Wondwer why it wont post at RWNT </m>
+      <user>lord_valdemor  </user>
+      <d>2006-06-12 01:20:00.468 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016685</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016685</id>
+      <m>What be goin on here   </m>
+      <user>mrbill140  </user>
+      <d>2006-07-01 06:51:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016914</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016914</id>
+      <m>Test</m>
+      <user>jabberjaw521  </user>
+      <d>2006-08-04 05:55:00.359 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016757</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016757</id>
+      <m>test</m>
+      <user>food_court_frank  </user>
+      <d>2006-07-16 12:26:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016747</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016747</id>
+      <m>Or perhaps I should have posted it as...</m>
+      <user>vistaviewer0  </user>
+      <d>2006-07-13 02:45:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016746</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016746</id>
+      <m>I hate #### ites!</m>
+      <user>vistaviewer0  </user>
+      <d>2006-07-13 02:43:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016913</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016913</id>
+      <m></m>
+      <user>jabberjaw521  </user>
+      <d>2006-08-04 05:54:00.359 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016593</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016593</id>
+      <m>ghjk</m>
+      <user>dharrisonv6c2r7  </user>
+      <d>2006-06-13 04:05:00.390 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016884</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016884</id>
+      <m>TEST</m>
+      <user>rafael636  </user>
+      <d>2006-08-01 02:44:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016761</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016761</id>
+      <m>test</m>
+      <user>research247  </user>
+      <d>2006-07-16 06:42:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016896</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016896</id>
+      <m>123</m>
+      <user>zztop..stock  </user>
+      <d>2006-08-02 04:14:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016773</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016773</id>
+      <m>Test</m>
+      <user>research247  </user>
+      <d>2006-07-16 07:40:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016760</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016760</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-07-16 06:39:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016883</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016883</id>
+      <m>test</m>
+      <user>slimfastjunkie  </user>
+      <d>2006-08-01 01:57:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016626</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016626</id>
+      <m>1 2 3</m>
+      <user>zircle  </user>
+      <d>2006-06-22 02:06:00.500 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016629</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016629</id>
+      <m>&amp;#8252;&amp;#745;O&amp;#745;</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 02:28:00.500 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016828</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016828</id>
+      <m>&amp;#9600;&amp;#9604;&amp;#9600;&amp;#9604;&amp;#9600;&amp;#9604;  o&amp;#960</m>
+      <user>may.trix  </user>
+      <d>2006-07-24 09:35:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016675</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016675</id>
+      <m>TEST</m>
+      <user>stockmaster77  </user>
+      <d>2006-06-29 08:57:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016578</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016578</id>
+      <m> A HREF &quot;http:  omobb.oasysmobile.com p event view</m>
+      <user>kingsblackrook  </user>
+      <d>2006-06-09 01:47:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016628</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016628</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 02:26:00.500 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016649</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016649</id>
+      <m>TEST</m>
+      <user>stockpile777  </user>
+      <d>2006-06-25 12:08:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016829</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016829</id>
+      <m>&amp;#9600;&amp;#9604;&amp;#9600;&amp;#9604;  o&amp;#9604;&amp;#9600;&amp;#960</m>
+      <user>may.trix  </user>
+      <d>2006-07-24 09:38:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016714</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016714</id>
+      <m>TEST</m>
+      <user>asnap9  </user>
+      <d>2006-07-05 10:32:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016895</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016895</id>
+      <m>afaesfsr</m>
+      <user>fish_bloggester  </user>
+      <d>2006-08-02 03:55:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016669</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016669</id>
+      <m>12345</m>
+      <user>bestbydesign  </user>
+      <d>2006-06-28 12:30:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016627</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016627</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 02:23:00.500 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016920</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016920</id>
+      <m>test</m>
+      <user>woranpeese  </user>
+      <d>2006-08-04 01:41:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016676</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016676</id>
+      <m>test</m>
+      <user>stockpile777  </user>
+      <d>2006-06-29 10:34:00.15 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016654</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016654</id>
+      <m>test</m>
+      <user>flipside310  </user>
+      <d>2006-06-26 09:23:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016919</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016919</id>
+      <m>test</m>
+      <user>woranpeese  </user>
+      <d>2006-08-04 01:39:00.296 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016894</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016894</id>
+      <m>test</m>
+      <user>ragingbullrep7  </user>
+      <d>2006-08-02 01:24:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016835</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016835</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-07-24 03:55:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016704</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016704</id>
+      <m>Test 1 2 3</m>
+      <user>sonnet_troupe  </user>
+      <d>2006-07-03 11:46:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016619</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016619</id>
+      <m>Hello muddah </m>
+      <user>lord_valdemor  </user>
+      <d>2006-06-21 05:14:00.156 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016602</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016602</id>
+      <m>testing</m>
+      <user>07ishere  </user>
+      <d>2006-06-16 06:20:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016624</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016624</id>
+      <m>Testing the Boards</m>
+      <user>concernedcitizentoo  </user>
+      <d>2006-06-22 12:58:00.593 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016674</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016674</id>
+      <m>test test test</m>
+      <user>pennys2bucks  </user>
+      <d>2006-06-29 01:33:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016623</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016623</id>
+      <m>This is a test</m>
+      <user>zircle  </user>
+      <d>2006-06-22 12:37:00.593 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016769</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016769</id>
+      <m>test</m>
+      <user>research247  </user>
+      <d>2006-07-16 06:56:00.984 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016811</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016811</id>
+      <m>Test</m>
+      <user>gismys.07  </user>
+      <d>2006-07-20 05:37:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016646</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016646</id>
+      <m>xxx</m>
+      <user>owl3rd  </user>
+      <d>2006-06-24 04:14:00.343 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016673</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016673</id>
+      <m>xxxxxxxxxxxxxx</m>
+      <user>gamester51287  </user>
+      <d>2006-06-29 10:55:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016869</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016869</id>
+      <m>test</m>
+      <user>kathy_s16  </user>
+      <d>2006-07-28 03:14:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016672</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016672</id>
+      <m>test</m>
+      <user>wiseoleman00  </user>
+      <d>2006-06-28 10:12:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016794</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016794</id>
+      <m>test of rb &amp;quot;enhancements&amp;quot;. For such a ve</m>
+      <user>suk-r  </user>
+      <d>2006-07-18 02:26:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016653</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016653</id>
+      <m>test</m>
+      <user>tccola0  </user>
+      <d>2006-06-26 01:28:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016697</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016697</id>
+      <m>test</m>
+      <user>imarockssoliddude  </user>
+      <d>2006-07-03 06:46:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016574</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016574</id>
+      <m>spelling tist.</m>
+      <user>razzpoot10  </user>
+      <d>2006-06-09 09:45:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016831</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016831</id>
+      <m></m>
+      <user>longs-prevail  </user>
+      <d>2006-07-24 12:30:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016864</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016864</id>
+      <m>ttt</m>
+      <user>trupicture  </user>
+      <d>2006-07-27 03:16:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016873</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016873</id>
+      <m>test</m>
+      <user>dereckman  </user>
+      <d>2006-07-30 05:41:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016750</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016750</id>
+      <m>    &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;</m>
+      <user>ludes-714  </user>
+      <d>2006-07-14 10:23:00.140 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016909</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016909</id>
+      <m>        &amp;</m>
+      <user>jabberjaw521  </user>
+      <d>2006-08-04 05:50:00.375 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016892</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016892</id>
+      <m>test</m>
+      <user>buzzying  </user>
+      <d>2006-08-02 10:40:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016740</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016740</id>
+      <m>ttttt</m>
+      <user>nuleafllc  </user>
+      <d>2006-07-11 05:15:00.765 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016606</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016606</id>
+      <m>test</m>
+      <user>broadway-joe1  </user>
+      <d>2006-06-17 06:46:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016706</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016706</id>
+      <m>test</m>
+      <user>merck6  </user>
+      <d>2006-07-03 03:59:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016837</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016837</id>
+      <m>test</m>
+      <user>rawnoc_02  </user>
+      <d>2006-07-24 04:30:00.640 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016772</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016772</id>
+      <m>Test</m>
+      <user>research247  </user>
+      <d>2006-07-16 07:01:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016570</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016570</id>
+      <m>test</m>
+      <user>gismys.07  </user>
+      <d>2006-06-07 08:20:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016671</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016671</id>
+      <m>just testing</m>
+      <user>motorsporto  </user>
+      <d>2006-06-28 07:56:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016871</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016871</id>
+      <m>test</m>
+      <user>kraigger23  </user>
+      <d>2006-07-28 07:04:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016670</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016670</id>
+      <m>test</m>
+      <user>motorsporto  </user>
+      <d>2006-06-28 01:28:00.187 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016771</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016771</id>
+      <m>test</m>
+      <user>research247  </user>
+      <d>2006-07-16 06:59:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016742</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016742</id>
+      <m>garjhbfxtgj</m>
+      <user>jumpinjo2  </user>
+      <d>2006-07-13 12:24:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016603</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016603</id>
+      <m>B&amp;#111;lt</m>
+      <user>astromancer  </user>
+      <d>2006-06-16 08:26:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016625</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016625</id>
+      <m>Praise God</m>
+      <user>eagle____12  </user>
+      <d>2006-06-22 01:14:00.500 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016827</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016827</id>
+      <m>Test</m>
+      <user>gismys.07  </user>
+      <d>2006-07-23 10:14:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016872</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016872</id>
+      <m>test</m>
+      <user>sinbad_the_seller  </user>
+      <d>2006-07-29 03:40:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016712</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016712</id>
+      <m>testing again</m>
+      <user>07isback  </user>
+      <d>2006-07-05 05:28:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016696</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016696</id>
+      <m>test</m>
+      <user>gismys.07  </user>
+      <d>2006-07-02 05:16:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016775</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016775</id>
+      <m>test</m>
+      <user>wolf_eyes10  </user>
+      <d>2006-07-17 01:35:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016730</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016730</id>
+      <m>jjjjj</m>
+      <user>themrmen  </user>
+      <d>2006-07-10 03:29:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016573</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016573</id>
+      <m>test</m>
+      <user>ubankk  </user>
+      <d>2006-06-08 10:05:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016652</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016652</id>
+      <m>test</m>
+      <user>mrbill140  </user>
+      <d>2006-06-25 05:37:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016711</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016711</id>
+      <m>ruptured bull....</m>
+      <user>kingsblackrook  </user>
+      <d>2006-07-05 02:50:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016584</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016584</id>
+      <m>testing</m>
+      <user>nysepick  </user>
+      <d>2006-06-12 11:56:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016572</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016572</id>
+      <m>tron</m>
+      <user>may.trix  </user>
+      <d>2006-06-08 09:47:00.625 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016724</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016724</id>
+      <m>test</m>
+      <user>24thepriceof1  </user>
+      <d>2006-07-06 11:48:00.0 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016774</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016774</id>
+      <m>test</m>
+      <user>no_el_no_el  </user>
+      <d>2006-07-16 09:00:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016601</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016601</id>
+      <m>test</m>
+      <user>rogueyin  </user>
+      <d>2006-06-15 09:48:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016710</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016710</id>
+      <m>a test...</m>
+      <user>broadway-joe1  </user>
+      <d>2006-07-05 01:59:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016695</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016695</id>
+      <m>testing</m>
+      <user>douglas-fir  </user>
+      <d>2006-07-02 01:37:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016631</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016631</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 02:33:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016800</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016800</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-07-19 07:09:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016889</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016889</id>
+      <m>I could find only 91 stocks with 2  billion share</m>
+      <user>badjack10000  </user>
+      <d>2006-08-01 07:51:00.671 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016727</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016727</id>
+      <m>test</m>
+      <user>greggosford1  </user>
+      <d>2006-07-07 02:36:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016659</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016659</id>
+      <m>Psalm 26:3</m>
+      <user>eagle___12  </user>
+      <d>2006-06-26 09:35:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016923</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016923</id>
+      <m>test</m>
+      <user>TheFroggy  </user>
+      <d>2006-08-05 12:24:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016795</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016795</id>
+      <m>Test</m>
+      <user>feci_occur  </user>
+      <d>2006-07-18 07:45:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016766</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016766</id>
+      <m>test</m>
+      <user>MACH4U  </user>
+      <d>2006-07-16 06:53:00.984 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016604</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016604</id>
+      <m>test</m>
+      <user>woogie_down  </user>
+      <d>2006-06-17 01:11:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016650</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016650</id>
+      <m>Test</m>
+      <user>mrbill140  </user>
+      <d>2006-06-25 02:53:00.265 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016713</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016713</id>
+      <m>O noooooooooooooooooooooooooooooooooooo</m>
+      <user>nufced  </user>
+      <d>2006-07-05 05:39:00.93 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016902</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016902</id>
+      <m>123</m>
+      <user>zztop..stock  </user>
+      <d>2006-08-03 03:23:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016903</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016903</id>
+      <m>123</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-08-03 04:58:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016630</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016630</id>
+      <m>&amp;#8902;</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 02:29:00.500 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016888</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016888</id>
+      <m>atest</m>
+      <user>badjack10000  </user>
+      <d>2006-08-01 07:38:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016904</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016904</id>
+      <m>234</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-08-03 04:58:00.515 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016852</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016852</id>
+      <m>test</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-07-25 05:08:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016583</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016583</id>
+      <m>bbbbbbbbbbbb</m>
+      <user>xrayviscion  </user>
+      <d>2006-06-12 10:39:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016854</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016854</id>
+      <m>: )</m>
+      <user>hellmanns  </user>
+      <d>2006-07-26 12:42:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016791</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016791</id>
+      <m>coffee making systems; sales and repair. Call 1 80</m>
+      <user>grand_argent  </user>
+      <d>2006-07-17 06:40:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016605</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016605</id>
+      <m>large</m>
+      <user>herodotus22  </user>
+      <d>2006-06-17 03:19:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016870</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016870</id>
+      <m>test</m>
+      <user>crush_als_skull  </user>
+      <d>2006-07-28 03:21:00.843 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016765</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016765</id>
+      <m>test</m>
+      <user>MACH4U  </user>
+      <d>2006-07-16 06:52:00.984 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016901</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016901</id>
+      <m>123</m>
+      <user>zztop..stock  </user>
+      <d>2006-08-03 02:19:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016728</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016728</id>
+      <m>test</m>
+      <user>igothemojo  </user>
+      <d>2006-07-08 10:34:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016575</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016575</id>
+      <m>1 1 3. Math test. eom</m>
+      <user>razzpoot10  </user>
+      <d>2006-06-09 09:49:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016677</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016677</id>
+      <m>&amp;nbsp;</m>
+      <user>Bulls9999  </user>
+      <d>2006-06-30 02:05:00.15 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016790</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016790</id>
+      <m>this will work</m>
+      <user>bullishtester  </user>
+      <d>2006-07-17 06:39:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016582</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016582</id>
+      <m>About time!!  Justice IS sweet.</m>
+      <user>chohenhous2  </user>
+      <d>2006-06-11 02:23:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016698</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016698</id>
+      <m>test</m>
+      <user>dereckman  </user>
+      <d>2006-07-03 09:54:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016832</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016832</id>
+      <m>test</m>
+      <user>lazarusrisen  </user>
+      <d>2006-07-24 01:00:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016907</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016907</id>
+      <m>ta3e4q34</m>
+      <user>fishblog  </user>
+      <d>2006-08-03 09:13:00.375 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016856</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016856</id>
+      <m>test</m>
+      <user>mod_squad_eliminator  </user>
+      <d>2006-07-26 01:46:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016733</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016733</id>
+      <m>test</m>
+      <user>unitedreco  </user>
+      <d>2006-07-10 02:36:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016767</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016767</id>
+      <m>New try, Capital Growth Resources </m>
+      <user>research247  </user>
+      <d>2006-07-16 06:54:00.984 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016644</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016644</id>
+      <m>TEST</m>
+      <user>taggingalong  </user>
+      <d>2006-06-23 11:41:00.343 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016808</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016808</id>
+      <m>test</m>
+      <user>07isback  </user>
+      <d>2006-07-20 01:24:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016725</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016725</id>
+      <m></m>
+      <user>get_shorty_now  </user>
+      <d>2006-07-07 08:53:00.0 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016632</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016632</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-06-22 02:33:00.437 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016581</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016581</id>
+      <m>In Switch, Company Sues NASD For Fraud</m>
+      <user>Mighty_Mezz  </user>
+      <d>2006-06-11 02:00:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016848</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016848</id>
+      <m>test</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-07-25 03:44:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016833</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016833</id>
+      <m>: )</m>
+      <user>hellmanns  </user>
+      <d>2006-07-24 01:26:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016908</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016908</id>
+      <m>aecfWAFECAW</m>
+      <user>fishblog  </user>
+      <d>2006-08-03 10:00:00.375 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016777</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016777</id>
+      <m>test</m>
+      <user>dimension0  </user>
+      <d>2006-07-17 11:12:00.968 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016886</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016886</id>
+      <m>testing one more time....</m>
+      <user>07isback  </user>
+      <d>2006-08-01 04:22:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016620</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016620</id>
+      <m>test........................</m>
+      <user>eagle____12  </user>
+      <d>2006-06-21 10:25:00.156 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016897</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016897</id>
+      <m>yo</m>
+      <user>steveharris310  </user>
+      <d>2006-08-02 05:26:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016874</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016874</id>
+      <m>test</m>
+      <user>heyjo727  </user>
+      <d>2006-07-30 10:32:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016816</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016816</id>
+      <m>test</m>
+      <user>gismys.07  </user>
+      <d>2006-07-21 10:54:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016753</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016753</id>
+      <m>testing the new boards</m>
+      <user>jrswanson  </user>
+      <d>2006-07-16 12:30:00.125 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016737</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016737</id>
+      <m>test</m>
+      <user>07isback  </user>
+      <d>2006-07-10 05:12:00.781 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016614</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016614</id>
+      <m>gfds</m>
+      <user>damascus_steelpa  </user>
+      <d>2006-06-20 01:45:00.234 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016580</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016580</id>
+      <m>test</m>
+      <user>kashman9  </user>
+      <d>2006-06-09 07:00:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016607</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016607</id>
+      <m>test</m>
+      <user>off2theraces  </user>
+      <d>2006-06-18 03:25:00.328 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016678</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016678</id>
+      <m>test</m>
+      <user>broadway-joe1  </user>
+      <d>2006-06-30 02:30:00.15 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016922</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016922</id>
+      <m>m</m>
+      <user>JoFotoz  </user>
+      <d>2006-08-04 07:30:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016792</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016792</id>
+      <m>TEST</m>
+      <user>bmiles_2  </user>
+      <d>2006-07-18 12:54:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016577</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016577</id>
+      <m>bbbbbbbbbbbbbb</m>
+      <user>kingsblackrook  </user>
+      <d>2006-06-09 12:27:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016679</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016679</id>
+      <m>html test</m>
+      <user>no_pump_no_bash  </user>
+      <d>2006-06-30 03:22:00.15 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016887</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016887</id>
+      <m>test</m>
+      <user>badjack10000  </user>
+      <d>2006-08-01 07:25:00.687 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016802</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016802</id>
+      <m>test</m>
+      <user>ubankk  </user>
+      <d>2006-07-19 09:25:00.578 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016576</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016576</id>
+      <m>test</m>
+      <user>tradnride  </user>
+      <d>2006-06-09 10:59:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016579</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016579</id>
+      <m>Its fun to play into their game...but truth will o</m>
+      <user>JoFotoz  </user>
+      <d>2006-06-09 04:53:00.546 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016805</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016805</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-07-20 09:22:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016611</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016611</id>
+      <m>test</m>
+      <user>browm1snoopy00  </user>
+      <d>2006-06-19 12:43:00.234 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016847</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016847</id>
+      <m>123</m>
+      <user>zztop..stock  </user>
+      <d>2006-07-25 03:28:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016647</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016647</id>
+      <m>google</m>
+      <user>owl3rd  </user>
+      <d>2006-06-24 04:16:00.343 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016734</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016734</id>
+      <m>test</m>
+      <user>shillterminator  </user>
+      <d>2006-07-10 04:41:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016699</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016699</id>
+      <m>test</m>
+      <user>kashman9  </user>
+      <d>2006-07-03 10:12:00.250 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016857</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016857</id>
+      <m>test</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-07-26 03:17:00.406 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016841</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016841</id>
+      <m>test</m>
+      <user>wiseoleman00  </user>
+      <d>2006-07-24 09:38:00.640 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016793</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016793</id>
+      <m>test</m>
+      <user>bullishtester2  </user>
+      <d>2006-07-18 11:26:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016849</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016849</id>
+      <m>test</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-07-25 04:16:00.484 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016906</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016906</id>
+      <m>456</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-08-03 04:58:00.515 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016813</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016813</id>
+      <m>test</m>
+      <user>mod_squad_eliminator  </user>
+      <d>2006-07-20 09:53:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016726</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016726</id>
+      <m>test</m>
+      <user>just_my_opinion1  </user>
+      <d>2006-07-07 10:19:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016898</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016898</id>
+      <m>asaefe</m>
+      <user>fish_bloggester  </user>
+      <d>2006-08-02 06:43:00.531 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016645</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016645</id>
+      <m>TEST</m>
+      <user>taggingalong  </user>
+      <d>2006-06-23 11:41:00.343 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016905</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016905</id>
+      <m>345</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-08-03 04:58:00.515 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016797</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016797</id>
+      <m></m>
+      <user>DueDillinger  </user>
+      <d>2006-07-19 01:30:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016840</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016840</id>
+      <m>test</m>
+      <user>not2nutz  </user>
+      <d>2006-07-24 09:30:00.640 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016921</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016921</id>
+      <m>test</m>
+      <user>vikilee  </user>
+      <d>2006-08-04 02:18:00.281 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016768</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016768</id>
+      <m>test</m>
+      <user>MACH4U  </user>
+      <d>2006-07-16 06:54:00.984 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016814</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016814</id>
+      <m>24THEPRICE IS A PAID BASHER REPORT HIM</m>
+      <user>2manywins  </user>
+      <d>2006-07-21 12:16:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016801</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016801</id>
+      <m>test</m>
+      <user>DueDillinger  </user>
+      <d>2006-07-19 07:13:00.656 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016735</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016735</id>
+      <m>test</m>
+      <user>shillterminator  </user>
+      <d>2006-07-10 05:00:00.937 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016612</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016612</id>
+      <m>test</m>
+      <user>coucoumerevoilou  </user>
+      <d>2006-06-19 07:12:00.234 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016720</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016720</id>
+      <m>Hehehe, the only party I am having is that I launc</m>
+      <user>penny_trades_pennies  </user>
+      <d>2006-07-06 11:52:00.15 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016819</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016819</id>
+      <m>Honk!!</m>
+      <user>happy_honker  </user>
+      <d>2006-07-21 05:38:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016796</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016796</id>
+      <m>test</m>
+      <user>wiseoleman42  </user>
+      <d>2006-07-18 09:44:00.812 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016858</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016858</id>
+      <m>test</m>
+      <user>nemesis_bfg  </user>
+      <d>2006-07-26 03:17:00.406 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+    <string>0016752</string>
+    <com.sa.hermes.library.databeans.MBMessage>
+      <id>0016752</id>
+      <m>First post on new system</m>
+      <user>jrswanson  </user>
+      <d>2006-07-15 11:52:00.140 CDT</d>
+    </com.sa.hermes.library.databeans.MBMessage>
+  </map>
+  <com.sa.hermes.library.databeans.RBMessageTrail>
+    <default>
+      <lastId>16561</lastId>
+    </default>
+  </com.sa.hermes.library.databeans.RBMessageTrail>
+</com.sa.hermes.library.databeans.RBMessageTrail>

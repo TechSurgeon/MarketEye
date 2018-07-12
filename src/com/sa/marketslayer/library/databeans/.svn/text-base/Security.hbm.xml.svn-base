@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+   <class name="com.sa.marketslayer.library.databeans.Security"
+      table="securities">
+      <id name="id" column="id">
+         <generator class="increment"/>
+      </id>
+      <property
+         name="lookup"
+         column="lookup"/>
+	  <property
+         name="exchange"
+         column="exchange"/>
+      <property
+         name="symbol"
+         column="symbol"/>
+      <property
+         name="web"
+         column="web"/>
+      <property
+         name="name"
+         column="name"/>
+   </class>
+</hibernate-mapping>

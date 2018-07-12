@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>
+
+        <!-- Database connection settings -->
+        <property name="connection.driver_class">org.gjt.mm.mysql.Driver</property>
+        <property name="connection.url">jdbc:mysql://192.168.1.100/tcore</property>
+		<!-- property name="connection.url">jdbc:mysql://localhost/Tcore</property -->
+        <property name="connection.username">Administrator</property>
+        <property name="connection.password">letsgo777</property>
+
+        <!-- JDBC connection pool (use the built-in) -->
+        <property name="connection.pool_size">1</property>
+
+        <!-- SQL dialect -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <!--  <property name="dialect">org.hibernate.dialect.MySQLDialect</property>  -->
+
+        <!-- Enable Hibernate's automatic session context management -->
+        <property name="current_session_context_class">thread</property>
+
+        <!-- Disable the second-level cache  -->
+        <property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
+
+        <!-- Echo all executed SQL to stdout -->
+        <property name="show_sql">true</property>
+
+        <!-- Drop and re-create/Update the database schema on startup -->
+        <property name="hbm2ddl.auto">update</property>
+
+        <mapping resource="com/sa/marketslayer/library/databeans/Security.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/a_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/b_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/c_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/d_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/e_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/f_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/g_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/h_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/i_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/j_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/k_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/l_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/m_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/n_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/o_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/p_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/q_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/r_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/s_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/t_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/u_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/v_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/w_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/x_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/y_md.hbm.xml"/>
+        <mapping resource="com/sa/marketslayer/library/databeans/marketdays/z_md.hbm.xml"/>
+    </session-factory>
+
+</hibernate-configuration>

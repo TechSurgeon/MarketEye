@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+   <class name="com.sa.marketslayer.library.databeans.marketdays.q_md"
+      table="q_mds">
+      <id name="id" column="id">
+         <generator class="increment"/>
+      </id>
+      <property
+         name="mySecId"
+         column="mySecId"/>
+      <property
+         name="date"
+         column="date"/>
+	  <property
+         name="open"
+         column="open"/>
+      <property
+         name="close"
+         column="close"/>
+      <property
+         name="high"
+         column="high"/>
+      <property
+         name="low"
+         column="low"/>
+      <property
+         name="volume"
+         column="volume"/>
+   </class>
+</hibernate-mapping>

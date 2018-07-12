@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="25"
+   name=""
+   committed-date="2006-10-20T00:19:12.200250Z"
+   url="svn://marketron/MarketSlayer/src/com/sa/marketslayer/library/databeans/marketdays"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="l_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.464296Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="06f510da7c0d44d99c88204e1328ed32"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.723230Z"/>
+<entry
+   committed-rev="24"
+   name="a_md.java"
+   text-time="2007-03-01T04:36:30.484324Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="b12fcce6373869769d4ef31f805b0a83"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.733244Z"/>
+<entry
+   committed-rev="24"
+   name="n_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.504353Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="4f2844e9c67bdff84b472a6b880bc701"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.753273Z"/>
+<entry
+   committed-rev="25"
+   name="b_md.java"
+   text-time="2007-03-01T04:36:30.514368Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="3e79cbcf7aff4e4ae607c9fecd2d9970"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.783316Z"/>
+<entry
+   committed-rev="25"
+   name="c_md.java"
+   text-time="2007-03-01T04:36:30.534396Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="f5e85aefe0ecf3f135875614e043f4ce"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.793331Z"/>
+<entry
+   committed-rev="24"
+   name="p_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.544411Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="3d46e1c227cadd00bc9bd498ac73f57c"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.803345Z"/>
+<entry
+   committed-rev="25"
+   name="d_md.java"
+   text-time="2007-03-01T04:36:30.574454Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="8addd445661813ff84f5827e48afef89"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.813360Z"/>
+<entry
+   committed-rev="25"
+   name="e_md.java"
+   text-time="2007-03-01T04:36:30.594483Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="f4a23628f9b896afab040a6473e4b41c"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.823374Z"/>
+<entry
+   committed-rev="25"
+   name="f_md.java"
+   text-time="2007-03-01T04:36:30.604497Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="0c855f4bf5fcf9753db0556665468f81"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.853417Z"/>
+<entry
+   committed-rev="24"
+   name="r_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.624526Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="6b71feae79968c6bb76c3cc2ec99a49e"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.863432Z"/>
+<entry
+   committed-rev="25"
+   name="g_md.java"
+   text-time="2007-03-01T04:36:30.644555Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="b39960b5d4011d6fc7a40c5127f3ea15"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.873446Z"/>
+<entry
+   committed-rev="25"
+   name="h_md.java"
+   text-time="2007-03-01T04:36:30.734684Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="c1f2f507bab15921e85b6df0690e8e00"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.883460Z"/>
+<entry
+   committed-rev="24"
+   name="t_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.754713Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="7d5bb20c87661f6fd4a8f1d0b672a106"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.903489Z"/>
+<entry
+   committed-rev="25"
+   name="i_md.java"
+   text-time="2007-03-01T04:36:30.764728Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="e46d5dadd53b0543e08f2abc583f2e17"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.923518Z"/>
+<entry
+   committed-rev="24"
+   name="v_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.814800Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="201dce58d70efcbef02fcf46f5308bec"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.943547Z"/>
+<entry
+   committed-rev="25"
+   name="j_md.java"
+   text-time="2007-03-01T04:36:30.784756Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="e321c346b61d7cd4346df29e605b3f6f"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.933532Z"/>
+<entry
+   committed-rev="25"
+   name="k_md.java"
+   text-time="2007-03-01T04:36:30.834828Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="a8bd7db4258439ad4d635b54db1054e6"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.953561Z"/>
+<entry
+   committed-rev="24"
+   name="x_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.944987Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="60ac8e0cb4128b2525dd0d537f942a1c"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.983604Z"/>
+<entry
+   committed-rev="25"
+   name="l_md.java"
+   text-time="2007-03-01T04:36:30.914944Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="74a4f536d199b7c6a70e3a88d19986d5"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.963576Z"/>
+<entry
+   committed-rev="25"
+   name="m_md.java"
+   text-time="2007-03-01T04:36:30.965016Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="f29bdc82266149fce4f26d32d1c37835"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.993619Z"/>
+<entry
+   committed-rev="24"
+   name="z_md.hbm.xml"
+   text-time="2007-03-01T04:36:30.995059Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="e642bf1e5c7ea0fa144f5eb5ea737fba"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.023662Z"/>
+<entry
+   committed-rev="25"
+   name="n_md.java"
+   text-time="2007-03-01T04:36:30.985044Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="77b79e2deb291075a619653b626f9406"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.003633Z"/>
+<entry
+   committed-rev="25"
+   name="o_md.java"
+   text-time="2007-03-01T04:36:31.005073Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="4aeb3e807c813049cc676b85eec75114"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.033676Z"/>
+<entry
+   committed-rev="25"
+   name="p_md.java"
+   text-time="2007-03-01T04:36:31.025102Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="62096c6e46236e69b5ea92c421e785b0"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.043691Z"/>
+<entry
+   committed-rev="25"
+   name="q_md.java"
+   text-time="2007-03-01T04:36:31.035116Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="454f5be6a2152e9c75071ef42bf7d028"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.053705Z"/>
+<entry
+   committed-rev="25"
+   name="r_md.java"
+   text-time="2007-03-01T04:36:31.055145Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="40658e08ea68bd0cdb013587fde026e3"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.063720Z"/>
+<entry
+   committed-rev="25"
+   name="s_md.java"
+   text-time="2007-03-01T04:36:31.065160Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="0526f69db6114454b8994b04c53be922"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.073734Z"/>
+<entry
+   committed-rev="25"
+   name="t_md.java"
+   text-time="2007-03-01T04:36:31.085188Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="bab594a10d7211ae7c10a0d9485ae0c3"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.083748Z"/>
+<entry
+   committed-rev="25"
+   name="u_md.java"
+   text-time="2007-03-01T04:36:31.115232Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="b211f87dd5e92ae0e9646c2c5e1e5635"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.113792Z"/>
+<entry
+   committed-rev="24"
+   name="a_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.095203Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="544c3c3c577c5d5a7c8e2b0687103b2e"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.103777Z"/>
+<entry
+   committed-rev="25"
+   name="v_md.java"
+   text-time="2007-03-01T04:36:31.125246Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="c8c45974f3d6a7eda41ffacd5cf5d90e"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.123806Z"/>
+<entry
+   committed-rev="24"
+   name="c_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.145275Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="1af7dd39216a0e8a63b25be7e3b311d6"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.143835Z"/>
+<entry
+   committed-rev="25"
+   name="w_md.java"
+   text-time="2007-03-01T04:36:31.155289Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="d82055cd502b71912d68a5baac6c2079"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.153849Z"/>
+<entry
+   committed-rev="25"
+   name="x_md.java"
+   text-time="2007-03-01T04:36:31.175318Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="2f49c55be7a27b8dc687e4db2d93113a"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.163864Z"/>
+<entry
+   committed-rev="24"
+   name="e_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.185332Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="e0da592dab0fdd9795e21b23ee31e701"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.173878Z"/>
+<entry
+   committed-rev="25"
+   name="y_md.java"
+   text-time="2007-03-01T04:36:31.205361Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="ff1a8c5f32b1dc1f20817c2a3e4f03ee"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.183892Z"/>
+<entry
+   committed-rev="25"
+   name="z_md.java"
+   text-time="2007-03-01T04:36:31.215376Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="cb3d29800401451123cdf2fdc12ca383"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.193907Z"/>
+<entry
+   committed-rev="24"
+   name="g_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.235404Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="aedf99a07db403a47a3eb003ed712904"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.213936Z"/>
+<entry
+   committed-rev="24"
+   name="i_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.245419Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="1e79524cb68488f7f4ec2129017b05a0"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.223950Z"/>
+<entry
+   committed-rev="24"
+   name="k_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.265448Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="8f1f49ee56355574db477dc7bddb0f86"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.284036Z"/>
+<entry
+   committed-rev="24"
+   name="m_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.275462Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="4e48f9eef8a13df0a646f4f1bf4ce291"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.304065Z"/>
+<entry
+   committed-rev="24"
+   name="o_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.285476Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="cf3194f681477d9e775f5fb8fb9473c6"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.314080Z"/>
+<entry
+   committed-rev="24"
+   name="q_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.305505Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="5b073f02095bce92bc18591ce1b89ace"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.324094Z"/>
+<entry
+   committed-rev="24"
+   name="s_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.325534Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="0f581768f424b4e7f58d61c68e03bc45"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.334108Z"/>
+<entry
+   committed-rev="24"
+   name="u_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.335548Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="44d1d670c6dec5caa86bb077baf10ef1"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.354137Z"/>
+<entry
+   committed-rev="24"
+   name="w_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.355577Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="47758704c591959d7015f9b331fc714f"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.364152Z"/>
+<entry
+   committed-rev="24"
+   name="y_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.365592Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="344c8ded0787da00a1a9f6d5744fb006"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.374166Z"/>
+<entry
+   committed-rev="24"
+   name="b_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.375606Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="77d0be89dd69d4f309946868041dc20e"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.394195Z"/>
+<entry
+   committed-rev="24"
+   name="d_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.395635Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="da8439f98b6249d68b439444a52ee794"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.404209Z"/>
+<entry
+   committed-rev="24"
+   name="f_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.405649Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="6ee1d7167ff4e70281a221da8b66388a"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.414224Z"/>
+<entry
+   committed-rev="24"
+   name="h_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.425678Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="2b9cb21f7a17f09d0d6a7ff406622524"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.434252Z"/>
+<entry
+   committed-rev="24"
+   name="j_md.hbm.xml"
+   text-time="2007-03-01T04:36:31.495779Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="bcfb2406b6e18588800ff993b7574e1f"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:30.444267Z"/>
+</wc-entries>

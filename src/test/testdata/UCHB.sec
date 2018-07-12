@@ -1,0 +1,2407 @@
+<com.sa.hermes.library.databeans.Security>
+  <lookup>UCHB.ob</lookup>
+  <exchange>OTCBB</exchange>
+  <symbol>UCHB</symbol>
+  <historicalTradeData>
+    <entry>
+      <date>2006-07-20 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.06</close>
+        <high>0.07</high>
+        <low>0.05</low>
+        <volume>105600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-22 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.05</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>279400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-19 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>58200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-09 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>2500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-10 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>51000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-13 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>25000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-26 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>56500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-17 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>30000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-21 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.11</close>
+        <high>0.17</high>
+        <low>0.08</low>
+        <volume>1624900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-08-04 17:40:56.359 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-28 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.12</open>
+        <close>0.11</close>
+        <high>0.12</high>
+        <low>0.1</low>
+        <volume>133800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-26 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-02 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-01 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.1</open>
+        <close>0.09</close>
+        <high>0.1</high>
+        <low>0.09</low>
+        <volume>62000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-24 17:40:56.515 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>30800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-27 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.06</close>
+        <high>0.08</high>
+        <low>0.06</low>
+        <volume>69000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-11 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>10000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-30 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.1</open>
+        <close>0.09</close>
+        <high>0.1</high>
+        <low>0.08</low>
+        <volume>192000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-27 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>329700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-09 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.08</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-31 17:40:56.687 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>214000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-28 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>25000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-27 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.13</open>
+        <close>0.1</close>
+        <high>0.13</high>
+        <low>0.1</low>
+        <volume>345200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-15 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-22 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>1000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-01 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>17500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-19 17:40:56.640 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>15000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-24 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.12</open>
+        <close>0.12</close>
+        <high>0.12</high>
+        <low>0.11</low>
+        <volume>111200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-12 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-27 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>5000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-13 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>17500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-08 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.03</high>
+        <low>0.03</low>
+        <volume>5000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-11 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>10000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-18 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>38000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-28 17:40:56.515 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>25000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-01 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>549600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-07 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-13 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.02</close>
+        <high>0.03</high>
+        <low>0.02</low>
+        <volume>655500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-17 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>5000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-27 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.08</low>
+        <volume>15000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-31 17:40:56.375 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>1000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-20 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.03</high>
+        <low>0.03</low>
+        <volume>84700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-13 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>22500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-03 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-19 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.06</close>
+        <high>0.07</high>
+        <low>0.05</low>
+        <volume>73500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-14 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>21900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-27 17:40:56.375 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-02 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.09</low>
+        <volume>188000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-23 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>3000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-21 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.07</low>
+        <volume>51600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-22 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.1</open>
+        <close>0.1</close>
+        <high>0.1</high>
+        <low>0.09</low>
+        <volume>100400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-17 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.09</low>
+        <volume>112000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-25 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>140700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-05 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.05</close>
+        <high>0.07</high>
+        <low>0.05</low>
+        <volume>486700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-14 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>59600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-08-01 17:40:56.359 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>51100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-31 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>76500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-25 17:40:56.640 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.06</low>
+        <volume>17500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-31 17:40:56.484 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>2000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-02 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-07 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>393400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-19 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>51600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-18 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-08 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-07 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.07</low>
+        <volume>61500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-25 17:40:56.375 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>30000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-06 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.06</close>
+        <high>0.08</high>
+        <low>0.06</low>
+        <volume>266200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-30 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>47800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-06 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-12 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.03</close>
+        <high>0.04</high>
+        <low>0.03</low>
+        <volume>303800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-19 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>111000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-31 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.1</open>
+        <close>0.09</close>
+        <high>0.1</high>
+        <low>0.08</low>
+        <volume>163500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-21 17:40:56.375 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-21 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.03</low>
+        <volume>273200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-02 17:40:56.687 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.1</high>
+        <low>0.08</low>
+        <volume>805600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-25 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>129000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-08 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-08 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.07</low>
+        <volume>246300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-22 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>118500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-10 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.09</low>
+        <volume>11000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-04 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.08</close>
+        <high>0.09</high>
+        <low>0.07</low>
+        <volume>168700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-20 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>10000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-06 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.05</high>
+        <low>0.03</low>
+        <volume>2040500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-27 17:40:56.515 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>86300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-09 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>270300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-04 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>383100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-17 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>88900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-24 17:40:56.375 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>3000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-15 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>35800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-12 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>31700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-23 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>62400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-20 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.11</close>
+        <high>0.11</high>
+        <low>0.08</low>
+        <volume>86300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-06 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>60500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-06 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-09 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>418000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-04 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>55300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-20 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.07</close>
+        <high>0.08</high>
+        <low>0.07</low>
+        <volume>132500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-02 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.12</open>
+        <close>0.14</close>
+        <high>0.14</high>
+        <low>0.11</low>
+        <volume>331300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-28 17:40:56.375 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-27 17:40:56.593 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.09</close>
+        <high>0.1</high>
+        <low>0.07</low>
+        <volume>606900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-10 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>254200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-05 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>6800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-30 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>841700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-18 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-24 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>36500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-07 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.11</open>
+        <close>0.1</close>
+        <high>0.11</high>
+        <low>0.1</low>
+        <volume>327900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-24 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.08</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>46500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-01 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.1</high>
+        <low>0.09</low>
+        <volume>351200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-23 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>400400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-10 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>19900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-14 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.11</open>
+        <close>0.1</close>
+        <high>0.11</high>
+        <low>0.1</low>
+        <volume>188000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-14 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.03</high>
+        <low>0.03</low>
+        <volume>315000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-07 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.03</high>
+        <low>0.03</low>
+        <volume>276700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-08 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.1</high>
+        <low>0.09</low>
+        <volume>124400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-19 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.08</low>
+        <volume>33000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-05 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.04</high>
+        <low>0.03</low>
+        <volume>285000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-03 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.1</close>
+        <high>0.1</high>
+        <low>0.09</low>
+        <volume>120300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-26 17:40:56.375 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>13400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-19 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.03</high>
+        <low>0.03</low>
+        <volume>21100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-03 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.12</open>
+        <close>0.11</close>
+        <high>0.13</high>
+        <low>0.1</low>
+        <volume>288000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-13 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.1</close>
+        <high>0.12</high>
+        <low>0.08</low>
+        <volume>336600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-26 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.09</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-08 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.07</low>
+        <volume>7900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-17 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.07</close>
+        <high>0.08</high>
+        <low>0.07</low>
+        <volume>210400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-20 17:40:56.640 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>54500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-12 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>66500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-25 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.07</close>
+        <high>0.08</high>
+        <low>0.06</low>
+        <volume>127100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-16 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.09</low>
+        <volume>5000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-16 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>6000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-25 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>31500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-03 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>5000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-03 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>41000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-20 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>16600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-05 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-08-02 17:40:56.359 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>7400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-10-28 17:40:56.687 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.06</low>
+        <volume>358700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-23 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-14 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.08</low>
+        <volume>96200</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-07 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.06</close>
+        <high>0.07</high>
+        <low>0.06</low>
+        <volume>303800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-28 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-21 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.07</high>
+        <low>0.06</low>
+        <volume>85000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-04 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>5000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-06 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-03 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>128600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-09 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.05</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>17400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-11 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.09</low>
+        <volume>20600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-11 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>33000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-17 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.06</close>
+        <high>0.07</high>
+        <low>0.06</low>
+        <volume>95000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-09 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>30000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-13 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-10 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>10000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-23 17:40:56.515 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.1</open>
+        <close>0.08</close>
+        <high>0.1</high>
+        <low>0.08</low>
+        <volume>491700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-23 17:40:56.640 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>143400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-15 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.1</open>
+        <close>0.1</close>
+        <high>0.11</high>
+        <low>0.09</low>
+        <volume>137000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-01 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>5000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-15 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>25100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-16 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>10000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-28 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>109500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-21 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>41500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-09 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.09</close>
+        <high>0.09</high>
+        <low>0.09</low>
+        <volume>85000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-21 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.1</close>
+        <high>0.12</high>
+        <low>0.09</low>
+        <volume>257600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-04-12 17:40:56.484 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-15 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.03</high>
+        <low>0.03</low>
+        <volume>17500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-05 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>10000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-18 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.06</close>
+        <high>0.07</high>
+        <low>0.06</low>
+        <volume>483600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-07 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-30 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>2500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-26 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>15000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-12 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>10000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-28 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>209300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-10 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.1</close>
+        <high>0.1</high>
+        <low>0.07</low>
+        <volume>302900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-26 17:40:56.593 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>120700</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-01 17:40:56.687 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.06</low>
+        <volume>141300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-29 17:40:56.515 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.06</close>
+        <high>0.08</high>
+        <low>0.06</low>
+        <volume>531800</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-21 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-16 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.03</open>
+        <close>0.03</close>
+        <high>0.03</high>
+        <low>0.03</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-15 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.09</open>
+        <close>0.08</close>
+        <high>0.09</high>
+        <low>0.08</low>
+        <volume>5500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-08-03 17:40:56.359 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>6000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-30 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>42500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-10 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.07</open>
+        <close>0.07</close>
+        <high>0.07</high>
+        <low>0.07</low>
+        <volume>32000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-16 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>21000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-24 17:40:56.640 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.07</high>
+        <low>0.06</low>
+        <volume>70000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-05 17:40:56.421 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>31100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-18 17:40:56.640 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>296300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-22 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.1</open>
+        <close>0.12</close>
+        <high>0.15</high>
+        <low>0.09</low>
+        <volume>1209100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-16 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.08</close>
+        <high>0.08</high>
+        <low>0.08</low>
+        <volume>14300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-14 17:40:56.406 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-06-29 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>27100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-22 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>25000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-06 17:40:56.562 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.11</open>
+        <close>0.11</close>
+        <high>0.11</high>
+        <low>0.1</low>
+        <volume>272100</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-03-30 17:40:56.484 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.08</open>
+        <close>0.06</close>
+        <high>0.08</high>
+        <low>0.06</low>
+        <volume>162900</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-17 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>50000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-11-29 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.05</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>484300</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-02 17:40:56.671 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.03</low>
+        <volume>675500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-23 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.12</open>
+        <close>0.12</close>
+        <high>0.14</high>
+        <low>0.1</low>
+        <volume>438400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-07-11 17:40:56.390 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.05</low>
+        <volume>27000</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2005-12-29 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.04</close>
+        <high>0.05</high>
+        <low>0.04</low>
+        <volume>32600</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-05-24 17:40:56.468 CDT</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.05</open>
+        <close>0.05</close>
+        <high>0.05</high>
+        <low>0.05</low>
+        <volume>0</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-01-03 17:40:56.656 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.04</open>
+        <close>0.04</close>
+        <high>0.04</high>
+        <low>0.04</low>
+        <volume>400</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+    <entry>
+      <date>2006-02-13 17:40:56.578 CST</date>
+      <com.sa.hermes.library.databeans.Security-MarketDay>
+        <date reference="../../date"/>
+        <open>0.06</open>
+        <close>0.06</close>
+        <high>0.06</high>
+        <low>0.06</low>
+        <volume>2500</volume>
+        <outer-class reference="../../../.."/>
+      </com.sa.hermes.library.databeans.Security-MarketDay>
+    </entry>
+  </historicalTradeData>
+</com.sa.hermes.library.databeans.Security>

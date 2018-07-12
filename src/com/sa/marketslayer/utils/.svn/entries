@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="34"
+   name=""
+   committed-date="2006-11-22T02:39:39.072500Z"
+   url="svn://marketron/MarketSlayer/src/com/sa/marketslayer/utils"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="28"
+   name="PersistFileUtil.java"
+   text-time="2007-03-01T04:36:26.017902Z"
+   committed-date="2006-10-21T23:40:23.062500Z"
+   checksum="8299da93108868174de4e80655dfafe0"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:25.847657Z"/>
+<entry
+   committed-rev="24"
+   name="ParseUtil.java"
+   text-time="2007-03-01T04:36:26.037931Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="c3c51ee7e3b3a1997b3beb9a4ec2c8f6"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:25.867686Z"/>
+<entry
+   committed-rev="34"
+   name="PersistDBUtil.java"
+   text-time="2007-03-01T04:36:26.218190Z"
+   committed-date="2006-11-22T02:39:39.072500Z"
+   checksum="1bc4929d5065544b2dd51db3e329d8ad"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:25.897729Z"/>
+<entry
+   committed-rev="24"
+   name="EntityResolver.java"
+   text-time="2007-03-01T04:36:26.278276Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="8882ba2f15a749e63219a4436b5d8958"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:25.947801Z"/>
+</wc-entries>

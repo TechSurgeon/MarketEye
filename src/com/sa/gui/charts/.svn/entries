@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="24"
+   name=""
+   committed-date="2006-10-17T00:06:56.278375Z"
+   url="svn://marketron/MarketSlayer/src/com/sa/gui/charts"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="HistoricalTradeChart.java"
+   text-time="2007-03-01T04:36:32.186772Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="addb3cd8936a21f3b608660b414825fe"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:32.166744Z"/>
+<entry
+   committed-rev="39"
+   name="MarketEyeHighLowChart.java"
+   text-time="2007-05-12T17:50:49.807233Z"
+   committed-date="2007-04-22T15:24:12.796875Z"
+   checksum="9d7c3e66ea742b5df340d11172bccd30"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-05-12T17:50:49.757161Z"
+   revision="39"/>
+</wc-entries>

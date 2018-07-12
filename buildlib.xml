@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by cjvh on March 2, 2007, 7:37 PM -->
+<project default="prepare" name="buildlib">
+  	<!-- dirname property="buildlib.basedir" file="${ant.file.imported}"/ -->
+
+	<property name="buildlib.basedir" value="${basedir}"/>
+	<property file="${basedir}/build.properties"/>
+
+	<property name="build" value="${basedir}/build" />
+	<property name="distdir" value="${build}/dist" />
+	<property name="classes" value="${build}/classes" />
+	<property name="junit.out" value="${build}/junit" />
+	<property name="clover.out" value="${build}/clover" />
+	<property name="checkstyle.out" value="${build}/checkstyle" />
+
+	<property name="distbin" value="${distdir}/bin" />
+	<property name="distlib" value="${distdir}/lib" />
+	<property name="distetc" value="${distdir}/etc" />
+	<property name="distconnections" value="${distdir}/connections" />
+	<property name="src" value="${basedir}/src" />
+	<property name="testsrc" value="${basedir}/src" />
+	<property name="etc" value="${basedir}/etc" />
+	<property name="doc" value="${build}/javadoc" />
+	<property name="lib" value="${basedir}/lib" />
+	<property name="debug" value="true" />
+	<property name="distjar" value="${project}.jar" />
+	<property name="jdo.properties" value="${etc}/jdo.properties" />
+	<property name="project.sql" value="${jdodbtype}.sql" />
+	<property name="excludes.file" value="unit-test.excludes" />
+
+	<target name="with.clover" >
+     		<taskdef resource="com/cenqua/ant/antlib.xml" classpath="${clover.home}/cenquatasks.jar"/>
+		<extendclasspath path="${clover.home}/clover.jar"/>
+		<taskdef resource="clovertasks" classpath="${clover.home}/clover.jar"/>     	
+		<clover-setup initString="mycoverage.db" source="1.5"/>
+	</target>
+	<target name="clover.html" depends="with.clover">
+		<clover-report>
+			<current outfile="${build}/clover">
+			<format type="html"/>
+			</current>
+		</clover-report>
+	</target>	
+	
+	<target name="checkstyle.report" >
+     	<taskdef resource="com/cenqua/ant/antlib.xml" classpath="${clover.home}/cenquatasks.jar"/>
+        <extendclasspath path="${checkstyle.home}/checkstyle-all-4.2.jar"/>
+		
+		<taskdef resource="checkstyletask.properties"
+	         classpath="${checkstyle.home}/checkstyle-all-4.2.jar"/>
+		<checkstyle config="${checkstyle.home}/alichecks.xml" failureProperty="checkstyle.failure" failOnViolation="false">
+			<fileset dir="${src}" includes="**/*.java" excludes="test/**"/>
+			<formatter type="xml" tofile="${checkstyle.out}/checkstyle_report.xml"/>
+		</checkstyle>		
+		
+		<style in="${checkstyle.out}/checkstyle_report.xml" out="${checkstyle.out}/checkstyle_report.html" style="${checkstyle.home}/checkstyle.xsl"/>
+	</target>
+	
+	
+	<target name="prepare" >
+		<mkdir dir="${build}" />
+		<mkdir dir="${classes}" />
+		<mkdir dir="${distdir}" />
+		<mkdir dir="${distdir}/lib" />
+		<mkdir dir="${distdir}/bin" />
+		<mkdir dir="${distdir}/etc" />
+		<mkdir dir="${doc}" />
+		<mkdir dir="${junit.out}" />
+		<mkdir dir="${clover.out}" />
+		<mkdir dir="${checkstyle.out}" />
+		
+		<copy todir="${etc}">
+			<fileset dir="${etc}" includes="*.template" />
+			<mapper type="regexp" from="^(.*)\.template$$" to="\1.properties" />
+			<filterset>
+				<filtersfile file="build.properties" />
+			</filterset>
+		</copy>
+
+		<path id="run-cp">
+			<pathelement path="${distdir}" />
+			<pathelement path="${distdir}/etc" />
+			<fileset dir="${distdir}/lib" includes="**/*" />
+		</path>
+		<!-- If you see 'count = 0,  total = 105' repeatedly when running any
+    	 of your ant targets, or you get the error 'java.util.zip.ZipException: invalid CEN header'
+    	 when running drop-db or create-db, you have 1 or more corrupt jar files.
+    	 Make sure all jar files are check into cvs as binary. Sticky flag -kb -->
+
+	</target>
+	<target name="compile-all" depends="prepare">
+		<javac classpathref="cp" destdir="${classes}" srcdir="${src}" debug="${debug}" >
+			<exclude name="test/**/*.java"/>
+		</javac>
+	</target>
+
+	<target name="build-default-jar" >		
+		<jar basedir="${classes}" jarfile="${distdir}/lib/${distjar}">
+			<exclude name="test/**" />
+			<exclude name="tools/**" />
+		</jar>
+	</target>
+	<target name="build-test-jar" depends="compile-tests">		
+		<jar basedir="${classes}" jarfile="${distdir}/lib/${project}-test.jar">
+			<include name="test/**/*.class"/>
+			<include name="tools/**/*.class"/>
+		</jar>
+	</target>
+
+	<target name="copy-files" depends="prepare">
+		<copy todir="${classes}">
+			<fileset dir="${etc}" includes="**/*.dtd" />
+		</copy>
+		<copy todir="${classes}">
+			<fileset dir="${src}" includes="**/*.properties" />
+		</copy>
+		<copy todir="${classes}">
+			<fileset dir="${src}" includes="**/*.xml" />
+		</copy>
+		<copy todir="${classes}">
+			<fileset dir="${src}" includes="**/*.png" />
+			<fileset dir="${src}" includes="**/*.jpg" />
+		</copy>
+	</target>
+
+	<target name="copy-dist-files" depends="prepare">
+		<copy todir="${distlib}">
+			<fileset dir="${lib}" includes="**/*.jar" />
+		</copy>
+	</target>
+	<target name="doc" depends="prepare">
+		<javadoc destdir="${doc}/" packagenames="com.ali.*" sourcepath="${src}/" />
+	</target>
+
+	<!--We  do not want to remove the connections directory, so hand pick the items to delete.-->
+	<target name="clean-dist" >
+		<delete includeEmptyDirs="true" quiet="true">
+			<fileset dir="${distbin}" />
+			<fileset dir="${distlib}" />
+			<fileset dir="${distetc}" />
+			<fileset dir="${dist}" includes="*.*" />
+		</delete>
+	</target>
+
+	<target name="clean-clover" depends="clean-dist">
+		<delete dir="${classes}" />
+	</target>
+	
+	<target name="clean-gensource">
+		<delete dir="${gensource}" quiet="true"/>
+	</target>
+
+	<target name="clean" depends="clean-dist">
+		<delete dir="${classes}" />
+		<delete includeEmptyDirs="true" quiet="true">
+
+			<fileset dir="${doc}" />
+			<fileset dir="${etc}" includes="*.properties" />
+			<fileset dir="${junit.out}" />
+			<fileset dir="${clover.out}" />
+			<fileset dir="${checkstyle.out}" />
+		</delete>
+	</target>
+
+
+	<target name="cleanprops" >
+		<delete includeEmptyDirs="false" quiet="true">
+			<fileset dir="${etc}" includes="*.properties" />
+		</delete>
+	</target>
+
+	<target name="compile-tests" depends="prepare">
+			<javac classpathref="test-cp" destdir="${classes}" srcdir="${testsrc}" debug="${debug}">
+			<include name="**/*.java" />
+		</javac>
+	</target>
+	<target name="unit-tests" depends="batch-unit-tests">
+    		<fail if="junitfail" />
+		<fail if="juniterror" />
+	</target>
+
+	<target name="unit-tests-reporting" depends="batch-unit-tests">
+		<junitreport todir="${junit.out}">
+			<fileset dir="${junit.out}" includes="TEST-*.xml" />
+			<report format="frames" todir="${junit.out}" />
+		</junitreport>
+		<fail if="junitfail" />
+		<fail if="juniterror" />
+	</target>
+
+	<target name="batch-unit-tests" depends="compile-tests">
+		<property file="${etc}/UnitTest.properties" />
+		<junit dir="${basedir}" fork="no" errorproperty="juniterror" failureproperty="junitfail" haltonfailure="no" printsummary="on" showoutput="yes">
+			<classpath refid="test-cp" />
+			<formatter type="xml" />
+			<jvmarg value="-Djava.awt.headless=true"/>
+			<batchtest fork="yes" todir="${junit.out}">
+				<fileset dir="${testsrc}" excludesfile="${excludes.file}">
+					<include name="**/*Test.java" />
+				</fileset>
+			</batchtest>
+		</junit>
+	</target>	
+	<target name="run-creator" depends="prepare" description="create and run connection creator">
+		<java classpathref="run-cp" classname="com.ali.uiframework.security.login.ConnectionCreator" fork="yes" dir="${distdir}" />
+	</target>
+
+	<target name="compile-security" >
+		<javac classpathref="cp" destdir="${classes}" srcdir="${gensource}" debug="${debug}"/>
+	</target>
+
+	<target name="update-schema" depends="prepare">
+		<java classpathref="test-cp" classname="com.ali.commons.db.DbUtil" fork="yes" dir=".">
+			<arg line="./etc/UnitTest.properties ./build/dist/etc/${project.sql}" />
+		</java>
+	</target>
+
+	<target name="install" depends="prepare">
+	 	<ant antfile="build.xml" target="install" dir="./install" inheritall="false"/>	
+	</target>
+</project>

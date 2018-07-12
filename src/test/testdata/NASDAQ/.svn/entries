@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="24"
+   name=""
+   committed-date="2006-10-17T00:06:56.278375Z"
+   url="svn://marketron/MarketSlayer/src/test/testdata/NASDAQ"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="CULS.his"
+   text-time="2007-03-01T04:36:24.635915Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="7ed74ca290a8103350c3bc31d0ac456e"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.585843Z"/>
+<entry
+   committed-rev="24"
+   name="GOOG.his"
+   text-time="2007-03-01T04:36:24.655944Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="7f6d7079eefc36394f15b5b66359328f"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.605872Z"/>
+</wc-entries>

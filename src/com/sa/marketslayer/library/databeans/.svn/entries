@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="27"
+   name=""
+   committed-date="2006-10-21T21:56:42.296875Z"
+   url="svn://marketron/MarketSlayer/src/com/sa/marketslayer/library/databeans"
+   last-author="sally"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="35"
+   name="EmailHit.hbm.xml"
+   text-time="2007-03-04T19:09:31.369587Z"
+   committed-date="2007-03-25T20:26:03.617375Z"
+   checksum="ca0d746b83999f3b43ff3707d6d8eb11"
+   last-author="harry"
+   kind="file"
+   revision="35"/>
+<entry
+   committed-rev="24"
+   name="MarketDay.java"
+   text-time="2007-03-01T04:36:31.585908Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="8985b556161e3b9a4f8aa0222fc9e5a5"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.402769Z"/>
+<entry
+   committed-rev="24"
+   name="Exchange.java"
+   text-time="2007-03-01T04:36:31.605937Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="7d0fc319feb9bf1b0af7fece23962472"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.412784Z"/>
+<entry
+   committed-rev="24"
+   name="MBMessage.java"
+   text-time="2007-03-01T04:36:31.625966Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="f77a167f03d07e04ead73800b984d27c"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.422798Z"/>
+<entry
+   name="marketdays"
+   kind="dir"/>
+<entry
+   committed-rev="24"
+   name="RBMessageTrail.java"
+   text-time="2007-03-01T04:36:31.645995Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="e68fa82467707887c0ab2023c6cd1037"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:29.442827Z"/>
+<entry
+   committed-rev="27"
+   name="Security.java"
+   text-time="2007-03-01T04:36:31.656009Z"
+   committed-date="2006-10-21T21:56:42.296875Z"
+   checksum="bc1ba9c2f421cc0166128f5f7e4d9268"
+   last-author="sally"
+   kind="file"
+   prop-time="2007-03-01T04:36:31.535836Z"/>
+<entry
+   committed-rev="24"
+   name="RuntimeSecurity.java"
+   text-time="2007-03-01T04:36:31.666024Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="9f8cd49fd081b91378c007d3b31a6a11"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:31.545851Z"/>
+<entry
+   committed-rev="27"
+   name="Security.hbm.xml"
+   text-time="2007-03-01T04:36:31.686052Z"
+   committed-date="2006-10-21T21:56:42.296875Z"
+   checksum="f70b33ba2ddfdd4447df7c3fdb1a4fc5"
+   last-author="sally"
+   kind="file"
+   prop-time="2007-03-01T04:36:31.555865Z"/>
+<entry
+   committed-rev="35"
+   name="EmailHit.java"
+   text-time="2007-03-11T07:13:48.258259Z"
+   committed-date="2007-03-25T20:26:03.617375Z"
+   checksum="5d53a5f1c56c628cda322e069916a81b"
+   last-author="harry"
+   kind="file"
+   revision="35"/>
+</wc-entries>

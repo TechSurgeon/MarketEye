@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="27"
+   name=""
+   committed-date="2006-10-21T21:56:42.296875Z"
+   url="svn://marketron/MarketSlayer/src/test/charts"
+   last-author="sally"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="PriceVolumeDemo.java"
+   text-time="2007-03-01T04:36:22.723164Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="c111b7df4523d75080202cfae48915e7"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:22.613006Z"/>
+<entry
+   committed-rev="25"
+   name="TestHistrocialTradeChart.java"
+   text-time="2007-03-01T04:36:22.753208Z"
+   committed-date="2006-10-20T00:19:12.200250Z"
+   checksum="d80fce2ab2e7713d78bbc8c872c1cc2e"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:22.633035Z"/>
+<entry
+   committed-rev="24"
+   name="OpusXYZDataset.java"
+   text-time="2007-03-01T04:36:22.773236Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="4c20f41df4ad0a95222ce50fb56ccba1"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:22.643049Z"/>
+<entry
+   committed-rev="36"
+   name="ProtoTypeChartDemo.java"
+   text-time="2007-04-05T01:14:32.004627Z"
+   committed-date="2007-03-26T04:18:40.609375Z"
+   checksum="05614981e2b2f769bd6651a135f393e3"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-04-05T01:14:31.884454Z"
+   revision="36"/>
+</wc-entries>

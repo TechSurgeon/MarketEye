@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by cjvh on March 2, 2007, 7:37 PM -->
+<project basedir="." default="build" name="Marketeer">
+	<property file="./build.properties"/>
+
+	<!-- property name="bin" value="${basedir}/bin" / -->
+	<!-- property name="tools" value="${basedir}/tools" / -->
+	<!-- property name="testjar" value="marketeer-test.jar" / -->
+
+	<target name="build" >
+		
+	</target>
+	
+	
+	<target name="prepare">
+		<!-- property name="extdoc" value="${build}/extjavadoc" / -->
+
+		<!-- mkdir dir="${extdoc}" / -->
+
+		<path id="cp">
+			<pathelement path="./bin" />
+			<fileset dir="./jars" includes="**/*.jar" />
+			<!-- C:\jdk1.5.0_07\jre\lib -->
+			<fileset dir="C:/jdk1.5.0_07/jre/lib" includes="**/*.jar" />
+			<fileset dir="C:/jdk1.5.0_07/jre/lib/ext" includes="**/*.jar" />
+		</path>
+		
+        <!-- path id="test-cp">
+        	<pathelement path="${classes}" />
+			<pathelement path="${etc}" />
+			<pathelement path="${basedir}" />
+			<fileset dir="${lib}" includes="**/*.jar" />
+        	<fileset dir="${tools}" includes="**/*.jar" />
+			<pathelement path="${clover.home}/clover.jar" />
+        </path -->
+	</target>
+	<target name="runAutoUpdater" >
+		<java
+			classname="com.sa.marketslayer.library.managers.SecuritiesAutoUpdateManager">
+			<classpath refid="cp" />
+			<arg value="21" /> <!-- Update hour 0-23 -->
+			<arg value="19" /> <!-- Update minute 0-59 -->
+			<!-- jvmarg value="-Xmx1024M"/ -->
+		</java>
+	</target>
+	
+	<target name="runEmailerTest" >
+		<java
+			classname="com.sa.marketslayer.utils.Emailer">
+			<classpath refid="cp" />
+			<!-- jvmarg value="-Xmx1024M"/ -->
+		</java>
+	</target>
+	<!-- target name="build-test-jar" depends="compile-tests">		
+		<jar basedir="${classes}" jarfile="${distdir}/lib/${testjar}">
+			<include name="test/commons/io/PropertiesInitializer.class" />
+			<include name="test/ALIUnitTest.class" />
+			<include name="test/xml/PersistanceTestUtility.class" />
+		</jar>
+	</target -->
+	<target name="build-jar-files" >		
+		<jar basedir="./bin" jarfile="./lib/MarketSlayer.jar">
+			<include name="com/sa/**" />
+		</jar>
+	</target>
+	
+	<target name="compile-all" depends="prepare">
+		<javac classpathref="cp" destdir="./bin" srcdir="./src">
+			<!-- exclude name="test/**/*.java"/ -->
+		</javac>
+	</target>
+		
+	<!-- target name="build-notest" depends="prepare, compile-all, copy-files, build-jar-files, copy-dist-files"/ -->
+	<!-- target name="build" depends="prepare, compile-all, copy-files, build-jar-files, build-test-jar,copy-dist-files"/ --> 
+
+	<!-- target name="extdoc" depends="prepare">
+		<javadoc destdir="${extdoc}/" overview="${src}/com/ali/commons/generics/overview.html">
+			<fileset dir="${src}" defaultexcludes="yes">
+
+			</fileset>
+		</javadoc>
+	</target -->
+
+	<!-- target name="clean" depends="buildlib.clean">
+		<delete includeEmptyDirs="true" quiet="true">
+			<fileset dir="${extdoc}" />
+		</delete>
+	</target -->
+
+	<target name="unit-test-single"> <!-- depends="compile-tests" -->
+		<junit dir="./src/test" fork="yes" haltonfailure="yes" printsummary="on" showoutput="yes">
+			<classpath refid="cp" />
+			<formatter type="plain" usefile="false" />
+			<test name="test.utils.EmailerTest" />
+		</junit>
+	</target>
+	<!-- target name="copy-files" depends="buildlib.copy-files">
+        <copy todir="${distetc}">
+		 	<fileset dir="./sql" includes="*.sql" />
+		</copy>
+	</target -->
+	<target name="unit-tests-reporting">
+		<junitreport todir="./reports">
+			<fileset dir="./reports" includes="TEST-*.xml" />
+			<report format="frames" todir="./reports" />
+		</junitreport>
+		<fail if="junitfail" />
+		<fail if="juniterror" />
+	</target>
+</project>

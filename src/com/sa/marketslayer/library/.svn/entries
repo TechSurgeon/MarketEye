@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="34"
+   name=""
+   committed-date="2006-11-22T02:39:39.072500Z"
+   url="svn://marketron/MarketSlayer/src/com/sa/marketslayer/library"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   name="parsers"
+   kind="dir"/>
+<entry
+   name="databeans"
+   kind="dir"/>
+<entry
+   name="managers"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="30"
+   name=""
+   committed-date="2006-10-22T21:06:57.753750Z"
+   url="svn://marketron/MarketSlayer/src/com/sa/marketslayer/library/parsers/interfaces"
+   last-author="sally"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="30"
+   name="DataParser.java"
+   text-time="2007-03-01T04:36:28.811920Z"
+   committed-date="2006-10-22T21:06:57.753750Z"
+   checksum="4c20ad3af34250ab7a8c72c70c6adc63"
+   last-author="sally"
+   kind="file"
+   prop-time="2007-03-01T04:36:28.761848Z"/>
+</wc-entries>

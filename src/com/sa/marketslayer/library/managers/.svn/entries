@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2006-11-22T02:37:55.541250Z"
+   url="svn://marketron/MarketSlayer/src/com/sa/marketslayer/library/managers"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="33"
+   name="HistoricalDataManager.java"
+   text-time="2007-03-01T04:36:31.866312Z"
+   committed-date="2006-11-22T02:37:55.541250Z"
+   checksum="6276c242e4549b12291e734d57406ac6"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:31.796211Z"/>
+<entry
+   committed-rev="33"
+   name="SecuritiesManager.java"
+   text-time="2007-03-01T04:36:31.876326Z"
+   committed-date="2006-11-22T02:37:55.541250Z"
+   checksum="6fb6ca1681d5d0c25b3cf405c0012ef4"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:31.806225Z"/>
+<entry
+   committed-rev="33"
+   name="SecuritiesUpdateManager.java"
+   text-time="2007-03-01T04:36:31.896355Z"
+   committed-date="2006-11-22T02:37:55.541250Z"
+   checksum="a1b0605d04adca91cf051b1e46f55b07"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:31.826254Z"/>
+</wc-entries>

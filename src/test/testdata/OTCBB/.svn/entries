@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="24"
+   name=""
+   committed-date="2006-10-17T00:06:56.278375Z"
+   url="svn://marketron/MarketSlayer/src/test/testdata/OTCBB"
+   last-author="harry"
+   kind="dir"
+   uuid="227cf4ca-4e94-2047-aabd-ef6e0b738854"
+   repos="svn://marketron"
+   revision="34"/>
+<entry
+   committed-rev="24"
+   name="UCHB.his"
+   text-time="2007-03-01T04:36:24.796145Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="3b5e7c7dc57120004d324f6cc48ace79"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.756088Z"/>
+<entry
+   committed-rev="24"
+   name="STTK.his"
+   text-time="2007-03-01T04:36:24.816174Z"
+   committed-date="2006-10-17T00:06:56.278375Z"
+   checksum="b0f607b53f036e21d7833ef837ff8e60"
+   last-author="harry"
+   kind="file"
+   prop-time="2007-03-01T04:36:24.776116Z"/>
+</wc-entries>
